@@ -1,0 +1,43 @@
+
+.modalOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  .modalContent {
+    background: white;
+    padding: 10px;
+    border-radius: 10px; 
+    position: relative;
+
+  }
+  
+  .closeButton {
+    display: flex;
+    position: absolute;
+    top: 1px;
+    justify-content: center;
+    align-items: center;
+    right: 1px;
+    background: none;
+    color: blue;
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    border:none;
+    font-size: 40px;
+    cursor: pointer;
+    border-radius: 50%;
+  }
+  
+  /* .btnWatchVideo {
+    background-color: red;
+  } */

@@ -1,0 +1,70 @@
+.article {
+  border: 1px solid green;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 10px auto;
+  /* width: 95%; */
+  /* background-color: yellow; */
+  background-color: rgb(247, 246, 246);
+}
+
+/* .phoneticsSectionHeader {
+} */
+
+.chart {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.description {
+  margin-left: 30px;
+}
+
+.paragraph {
+  text-transform: uppercase;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  /* color: rgb(0, 208, 0);
+     */
+  color: red;
+  /* font-weight: 500; */
+}
+
+.btnWatchVideo {
+  color: green;
+  padding: 10px;
+  border: 2px solid green;
+  border-radius: 5px;
+}
+
+/* ! accordeon -- */
+.accordion {
+  display: block;
+  background-color: rgb(212, 255, 230);
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  text-align: left;
+  border: 1px solid rgb(121, 241, 171);
+  outline: none;
+  transition: background-color 0.3s ease;
+}
+
+.accordion.active {
+  background-color: white;
+}
+
+.panel {
+  padding: 0 10px;
+  background-color: white;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  margin-bottom: 10px;
+}

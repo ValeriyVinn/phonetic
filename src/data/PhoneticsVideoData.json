@@ -1,0 +1,511 @@
+[
+  {
+    "id": 1,
+    "title": "Vowel sound /i/ as in 'be'",
+    "src": "https://www.youtube.com/embed/PIu5WDIco0I?si=0u-vn_RIcPab4mnI",
+    "text": "A queen eats green cream",
+    "accordeon": [
+      "y as in ‘city’",
+      "e as in ‘be’",
+      "i as in ‘ski’",
+      "ea as in ‘each’",
+      "ee as in ‘see’",
+      "ie as in ‘piece’",
+      "ey as in ‘key’"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Vowel sound /ɪ/ as in 'it'",
+    "src": "https://www.youtube.com/embed/Ok_HG-0lNCA?si=vCPWEvzYZJE5KP-k",
+    "text": "A kid missed his ship",
+    "accordeon": [
+      "i as in it, drink",
+      "e as in enough, decide",
+      "a as in message, private",
+      "y as in gym, typical",
+      "etc. as in build, busy"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Vowel sound /ʌ/ as in 'us'",
+    "src": "https://www.youtube.com/embed/X1utTZqC3AI?si=iFiYRoGCaRNqc18M",
+    "text": "A duck comes into a pub",
+    "accordeon": [
+      "u as in ‘but’",
+      "o as in ‘come’",
+      "ou as in ‘young’",
+      "oo as in ‘flood’"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Vowel sound /ɑ/ as in 'got'",
+    "src": "https://www.youtube.com/embed/R5CY1UniS68?si=9pL2kZUTmWsIwfwV",
+    "text": "A fox got a shock in a shop",
+    "accordeon": ["First string", "Second string", "Third string"]
+  },
+  {
+    "id": 5,
+    "title": "Vowel sound /ɛ/ as in 'bed'",
+    "src": "https://www.youtube.com/embed/OLG3cCLcNiI?si=dpq6nNTcQbE4ZTBT",
+    "text": "A wet elk in a shed.",
+    "accordeon": [
+      "e as in get, let, end",
+      "ea as in head, ready",
+      "a as in any, many",
+      "etc. as in friend, guest"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Vowel sound /ə/ (schwa) as in 'ago'",
+    "src": "https://www.youtube.com/embed/m1mDSUSwNls?si=Ft_iVJ8nt4eF8gsm",
+    "text": "Seven balloons above the ocean",
+    "accordeon": [
+      "a as in ‘above’",
+      "o as in ‘today’",
+      "e as in ‘even’",
+      "io as in ‘nation’",
+      "i as in ‘pencil’",
+      "u as in ‘product’"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Vowel sound /æ/ as in 'cat'",
+    "src": "https://www.youtube.com/embed/mynucZiy-Ug?si=nrz4oxjXwtNFA5Kg",
+    "text": "A fat black cat in a hat had a nap",
+    "accordeon": ["a as in ‘cat’", "al as in ‘half’", "au as in ‘laugh’"]
+  },
+  {
+    "id": 8,
+    "title": "Vowel sound /ɔ/ as in 'on'",
+    "src": "https://www.youtube.com/embed/pr_KAu-_Hmo?si=L3gi5N7_dd_4Z0Mk",
+    "text": "A small frog lost in a fog",
+    "accordeon": [
+      "o as in ‘on’",
+      "au as in ‘cause’",
+      "a as in ‘water’",
+      "al as in ‘call’",
+      "aw as in 'saw'",
+      "ou as in 'thought'",
+      "oa as in 'broad'"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Vowel sound /ʊ/ as in 'put'",
+    "src": "https://www.youtube.com/embed/moLTR-dLQQY?si=MjUnKsAHfyrdWAR_",
+    "text": "A cook stood in a brook",
+    "accordeon": [
+      "u as in ‘put’",
+      "oo as in ‘book’",
+      "o as in ‘wolf’",
+      "ou as in 'could'"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Vowel sound /u/ as in 'blue'",
+    "src": "https://www.youtube.com/embed/lkM6CKBM2ns?si=cgiCYRNpZRGj0z6l",
+    "text": "Cute troops in blue boots",
+    "accordeon": [
+      "u as in ‘rule’",
+      "oo as in ‘too’",
+      "o as in ‘do’",
+      "ew as in 'new'",
+      "ou as in 'soup'"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Vowel sound /aʊ/ as in 'cloud'",
+    "src": "https://www.youtube.com/embed/-V690OA75bA?si=5k4alngWDIaLzY2X",
+    "text": "A proud clown in the crown",
+    "accordeon": ["ou as in 'couch'", "ow as in 'cow'"]
+  },
+  {
+    "id": 12,
+    "title": "Vowel sound /oʊ/ as in 'go'",
+    "src": "https://www.youtube.com/embed/4kPJLHiiGdU?si=c_h-vINE2OZFqFWG",
+    "text": "A ghost hopes for a home",
+    "accordeon": [
+      "o as in ‘go’",
+      "ow as in 'snow'",
+      "oa as in 'coat'",
+      "ou as in 'though'",
+      "ew as in 'sew'"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Vowel sound /aɪ/ as in 'like'",
+    "src": "https://www.youtube.com/embed/8uD-GuuSgyk?si=kXB9u6BJG4TWwfLo",
+    "text": "A bright kite flies in the sky",
+    "accordeon": [
+      "i as in ‘like’",
+      "y as in 'my'",
+      "etc.: as in 'violin', 'eye', 'buy'"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Vowel sound /eɪ/ as in 'make'",
+    "src": "https://www.youtube.com/embed/0RXzfRcjk-s?si=jiCCpSOnvRBqTacE",
+    "text": "A snail takes a late train",
+    "accordeon": [
+      "a as in ‘take’",
+      "ai as in 'wait'",
+      "ay as in 'day'",
+      "ei as in 'eight'",
+      "ea as in 'break'"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Vowel sound /ɔɪ/ as in 'boy'",
+    "src": "https://www.youtube.com/embed/ZfjPBN22mK8?si=rTCOCUyNVex7Yw-w",
+    "text": "A boy annoyed with his toy",
+    "accordeon": ["oi as in 'point'", "oy as in 'boy'", "etc.: lawyer"]
+  },
+
+  {
+    "id": 16,
+    "title": "R-Colored vowel sound /ɝ/ as in 'first'",
+    "src": "https://www.youtube.com/embed/6ppOrwjvslc?si=_NRsKcu8j3uNWDyc",
+    "text": "A bird in a purple skirt",
+    "accordeon": [
+      "er as in 'her'",
+      "ur as in 'turn'",
+      "ir as in 'first'",
+      "or as in 'work'",
+      "ear as in 'learn'",
+      "our as in 'journey'",
+      "urr as in 'current'",
+      "etc.: squirrel, worry"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "R-Colored vowel sound /ɚ/ as in 'after'",
+    "src": "https://www.youtube.com/embed/AzNRoSGBh44?si=jXxdhIiy1bZ7oyEA",
+    "text": "Eager tigers hammer spiders",
+    "accordeon": [
+      "er as in 'never'",
+      "ur as in 'picture'",
+      "or as in 'doctor'",
+      "ar as in 'dollar'",
+      "r as in 'our'",
+      "etc.: yourself, amateur"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "R-Colored vowel sound /ɪr/ as in 'hero'",
+    "src": "https://www.youtube.com/embed/X0bkG5ZfzH4?si=IP-dHRSaviGcmZSv",
+    "text": "Beer for a deer on a pier",
+    "accordeon": [
+      "er as in 'here'",
+      "ear as in 'year'",
+      "eer as in 'beer', 'career'",
+      "ier as in 'pier', 'fierce'",
+      "etc.: 'spirit', 'weird'"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "R-Colored vowel sound /ɛr/ as in 'chair'",
+    "src": "https://www.youtube.com/embed/ZjurI7xtCjE?si=uaJdTvtBNzwzfeUQ",
+    "text": "A bear with a pear on a chair",
+    "accordeon": [
+      "ar as in 'care', 'parent'",
+      "er as in 'very', 'where'",
+      "air as in 'hair', 'chair'",
+      "arr as in 'carry', 'marry'",
+      "err as in 'merry', 'error'",
+      "etc.: 'bear', 'their'"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "R-Colored vowel sound /ɑr/ as in 'car'",
+    "src": "https://www.youtube.com/embed/x6E2L2vLH78?si=YSlDNZH5wJVsPSAC",
+    "text": "A guard with a scar in a car",
+    "accordeon": [
+      "ar as in 'start', 'car'",
+      "ear as in 'heart', 'hearty'",
+      "etc.: 'sorry', 'sergeant'"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "R-Colored vowel sound /ɔr/ as in 'sport'",
+    "src": "https://www.youtube.com/embed/ZbDrxmP4_S4?si=TO3r_BcJx9rpULYX",
+    "text": "A horse snores on a warm shore",
+    "accordeon": [
+      "or as in 'for', 'adore'",
+      "ar as in 'warm', 'quarter'",
+      "our as in 'four', 'your'",
+      "oor as in 'door', 'floor'",
+      "oar as in 'board', 'roar'",
+      "orr as in 'horrible', 'corridor'",
+      "etc.: 'warrant', 'laurel'"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "R-Colored vowel sound /aɪr/ as in 'fire'",
+    "src": "https://www.youtube.com/embed/PdV7RymsiMY?si=HCRiYSnyIF-QmlLL",
+    "text": "New attire for vampire",
+    "accordeon": ["ir as in 'fire', 'wire'", "etc.: 'dryer', 'supplier'"]
+  },
+  {
+    "id": 23,
+    "title": "Consonant sound /p/ as in 'pie'",
+    "src": "https://www.youtube.com/embed/V_n_rUKQSew?si=SN_dsb6nqAWyd1Lf",
+    "text": "Pretty puppies at a pull party",
+    "accordeon": ["p as in 'put', 'ship'", "pp as in 'happy', 'apply'"]
+  },
+  {
+    "id": 24,
+    "title": "Consonant sound /b/ as in 'boy'",
+    "src": "https://www.youtube.com/embed/ZfjPBN22mK8?si=U-Mf3Ub0snHRCa1O",
+    "text": "A black baby bat in bathtub",
+    "accordeon": ["b as in 'club', 'back'", "bb as in 'rabbit', 'stubborn'"]
+  },
+  {
+    "id": 25,
+    "title": "Consonant sound /t/ as in 'toy'",
+    "src": "https://www.youtube.com/embed/mLlotV_0dRI?si=jzQihAywJcpGLt2H",
+    "text": "Two turtles took a train to tijuana",
+    "accordeon": [
+      "t as in 'time', 'get', 'hotel'",
+      "tt as in 'attorney', 'attach'",
+      "etc.: 'pizza', 'paparazzi'"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Consonant sound Flapt 'T' /t̬/ as in 'water'",
+    "src": "https://www.youtube.com/embed/9b-UIkuwOdU?si=nErogrf3hWkIYfsr",
+    "text": "Forty letters in a bottle",
+    "accordeon": ["t as in 'water', 'ability'", "tt as in 'little', 'pretty'"]
+  },
+  {
+    "id": 27,
+    "title": "Consonant sound Glottal 'T' /ʔ/ as in 'button'",
+    "src": "https://www.youtube.com/embed/Vabg-EUHOQk?si=FV2Hw4Z4QxMlWksh",
+    "text": "Kittens in satin mittens",
+    "accordeon": ["t as in 'certain', 'eaten'", "tt as in 'cotton', 'button'"]
+  },
+  {
+    "id": 28,
+    "title": "Consonant sound /d/ as in 'dog'",
+    "src": "https://www.youtube.com/embed/N73xPe0x79g?si=6RybK-vKNkxE7-OM",
+    "text": "Ducks danced from dusk till dawn",
+    "accordeon": ["d as in 'do', 'today'", "dd as in 'buddy', 'add'"]
+  },
+  {
+    "id": 29,
+    "title": "Consonant sound /k/ as in 'key'",
+    "src": "https://www.youtube.com/embed/zxrveu6yu6E?si=-2Jqk9O09aep7SIu",
+    "text": "A crow in a coat caught a cold",
+    "accordeon": [
+      "'C': can, clean",
+      "'K': like, keep",
+      "'CK': back, check",
+      "'X': next, six",
+      "'Q': quick, square",
+      "'CH': school, ache",
+      "etc.: occur, length"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Consonant sound /ɡ/ as in 'gift'",
+    "src": "https://www.youtube.com/embed/vP5XKYvxe0Q?si=gZbKliHKVibBHRdq",
+    "text": "A gray goat’s  gonna  grow",
+    "accordeon": ["'G': great, dog", "'GG': egg, struggle", "'X': exact, exam"]
+  },
+  {
+    "id": 31,
+    "title": "Consonant sound /f/ as in 'fun'",
+    "src": "https://www.youtube.com/embed/05f62-73nrY?si=xFKxDl35zRXErJzI",
+    "text": "Friendly frogs fry figs on Fridays",
+    "accordeon": [
+      "'F': from, if",
+      "'FF': stuff, traffic",
+      "'PH': phone, phrase",
+      "'GH': laugh, enough"
+    ]
+  },
+
+  {
+    "id": 32,
+    "title": "Consonant sound /v/ as in 'very'",
+    "src": "https://www.youtube.com/embed/U5Oro6v0klg?si=d9adEpyQeT8_ZdvU",
+    "text": "Vivid vacation in a vintage van",
+    "accordeon": ["'V': have, very", "'F': of, thereof"]
+  },
+  {
+    "id": 33,
+    "title": "Consonant sound /θ/ (voiceless 'th') as in 'think'",
+    "src": "https://www.youtube.com/embed/qC0l6GQZtM4?si=LLn1mL3G8S73RbCu",
+    "text": "A sloth with a moth in a cloth",
+    "accordeon": ["'TH': think, bath"]
+  },
+  {
+    "id": 34,
+    "title": "Consonant sound /ð/ (voiced 'th') as in 'this'",
+    "src": "https://www.youtube.com/embed/EZb_EWVCUoE?si=_QMnG_1uYq1DFNtT",
+    "text": "That’s their mother, father and brother",
+    "accordeon": ["'TH': this, mother"]
+  },
+  {
+    "id": 35,
+    "title": "Consonant sound /s/ as in 'sun'",
+    "src": "https://www.youtube.com/embed/6hWPXaPXrnQ?si=BoSTS1i8e3nG_B-i",
+    "text": "A sailor snapped a solid selfie",
+    "accordeon": [
+      "'S': see, house, bus",
+      "'C': cent, city, fancy",
+      "'SS': miss, assign, actress",
+      "'X': next, six, taxi",
+      "etc.: scene, waltz, pizza"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Consonant sound /z/ as in 'zoo'",
+    "src": "https://www.youtube.com/embed/ky7Jh9Bbjts?si=QqRY_--7ZNLGVm85",
+    "text": "Lazy zebras raised a lizard",
+    "accordeon": [
+      "'S': easy, please",
+      "'Z': zoo, size",
+      "'X': exact, exam",
+      "etc.: buzz, dessert"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Consonant sound /ʃ/ as in 'show'",
+    "src": "https://www.youtube.com/embed/wINb4HFguck?si=dFgOFHQrpDJ0VU-B",
+    "text": "Stylish sheep shopped for shoes",
+    "accordeon": [
+      "'T': station, patient",
+      "'SH': show, wish",
+      "'C': special, ocean",
+      "'SS': issue, mission",
+      "'S': tension, sure",
+      "'CH': machine, chef",
+      "etc.: anxious, conscious"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Consonant sound /ʒ/ as in 'vision'",
+    "src": "https://www.youtube.com/embed/k8ImSmVOSVA?si=wBAfC5tjq_VGhHCS",
+    "text": "A concierge with amnesia made a decision",
+    "accordeon": [
+      "'S': decision, measure",
+      "'G': massage, beige",
+      "etc.: seizure, luxurious"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Consonant sound /h/ as in 'home'",
+    "src": "https://www.youtube.com/embed/dV6At0g4n78?si=8WUeKp0-gYhQOvZ6",
+    "text": "A horse helped a herd of hedgehogs",
+    "accordeon": ["'H': he, who, perhaps"]
+  },
+  {
+    "id": 40,
+    "title": "Consonant sound /tʃ/ as in 'chair'",
+    "src": "https://www.youtube.com/embed/WoyI_omRpcw?si=8_H1kXN1C7hxF5ku",
+    "text": "Children chose chili cheese chips",
+    "accordeon": [
+      "'CH': chair, much",
+      "'T': nature, question",
+      "'TCH': watch, kitchen",
+      "etc.: cello, cappuccino"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Consonant sound /dʒ/ as in 'job'",
+    "src": "https://www.youtube.com/embed/zJJ3hhHtjtI?si=BLfeEkFWCAEg2-Am",
+    "text": "A jockey in jeans joined a gym",
+    "accordeon": [
+      "'G': change, gym",
+      "'J': job, project",
+      "'DG': badge, edge",
+      "'D': educate, soldier",
+      "etc.: adjust, suggest"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Consonant sound /r/ as in 'run'",
+    "src": "https://www.youtube.com/embed/q5a2-KuHkBU?si=ZaZmeDMnUFODacfe",
+    "text": "A rat rides a train in the rain",
+    "accordeon": ["'R': right, from", "'RR': arrive, correct"]
+  },
+  {
+    "id": 43,
+    "title": "Consonant sound /l/ as in 'let'",
+    "src": "https://www.youtube.com/embed/JamM8TgB_AA?si=K-Rt5TBjNHbg0MjP",
+    "text": "A lone lamb lost his land",
+    "accordeon": ["'L': like, table", "'LL': all, collect"]
+  },
+  {
+    "id": 44,
+    "title": "Consonant sound dark /ɫ/ as in 'call'",
+    "src": "https://www.youtube.com/embed/ZTgYjGXFAkw?si=cFsCn1PBGRmvwlwN",
+    "text": "Tall Paul will fill the small bottle full.",
+    "accordeon": ["'L': will, fill, trouble, people, control"]
+  },
+  {
+    "id": 45,
+    "title": "Consonant sound /n/ as in 'nice'",
+    "src": "https://www.youtube.com/embed/1eyr7O4TFmI?si=snTFKYq8yTARN5jx",
+    "text": "A night nurse napped till nine",
+    "accordeon": ["'N': name, bench", "'NN': dinner, tennis"]
+  },
+  {
+    "id": 46,
+    "title": "Consonant sound /m/ as in 'map'",
+    "src": "https://www.youtube.com/embed/tkiN8BsBEfA?si=OB8o28fesrhpI3QA",
+    "text": "Masked mice a meal at midnight",
+    "accordeon": ["'M': come, rhythm", "'MM': summer, common"]
+  },
+  {
+    "id": 47,
+    "title": "Consonant sound /ŋ/ as in 'thing'",
+    "src": "https://www.youtube.com/embed/5xVq8T88oJw?si=HyMhjh4pvkoMpsxU",
+    "text": "A king sang the wrong song",
+    "accordeon": ["'N': think, finger", "'NG': thing, long"]
+  },
+  {
+    "id": 48,
+    "title": "Consonant sound /w/ as in 'way'",
+    "src": "https://www.youtube.com/embed/nMB5mX_PGHQ?si=0wjO3j5xdX1WC7Y9",
+    "text": "White whale winked and went away",
+    "accordeon": ["'W': we, twice", "'U': quite, suite", "etc.: one, choir"]
+  },
+  {
+    "id": 49,
+    "title": "Consonant sound /j/ as in 'yes'",
+    "src": "https://www.youtube.com/embed/1G8SCotE2yg?si=MWOxI38HqSBc2rxC",
+    "text": "Unicorn yell in your backyard",
+    "accordeon": [
+      "'U': deputy, popular",
+      "'Y': you, canyon",
+      "'I': onion, familiar",
+      "'UR': cure, failure",
+      "etc.: Europe, eureka"
+    ]
+  }
+]

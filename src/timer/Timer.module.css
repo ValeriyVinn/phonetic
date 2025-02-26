@@ -1,0 +1,62 @@
+.restTimer {
+    outline: 1px solid green;
+    /* width: 95%; */
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 4px;
+    margin-top: 20px;
+    padding: 5px 10px;
+    color: green;
+}
+
+
+
+.min {
+    margin-right: 5px;
+}
+
+.restTimer input {
+    width: 70px;
+    font-size: 26px;
+    font-weight: 600;
+    color: green;
+}
+
+.restTimerModal {
+    /* background-color: red; */
+    padding: 50px;
+    width: 445px;
+    /* text-align: center; */
+}
+
+.restTimerHeader {
+    margin-right: 10px;
+    color: green;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+
+.restTimerCountdown {
+    color: blue;
+    font-size: 90px;
+    padding: 50px;
+}
+
+
+.buttonTimer {
+    border: 2px solid green;
+    border-radius: 3px;
+    padding: 2px 5px;
+    background-color: rgb(230, 230, 230);
+    color: green;
+}
+
+.buttonTimer:disabled {
+    background-color: green;
+    color: rgb(230, 230, 230);
+}
