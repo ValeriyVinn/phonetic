@@ -1,8 +1,9 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import css from './Phonetic.module.css';
 import videoData from '../data/PhoneticsVideoData.json';
 import Modal from '../modal/Modal';
 import Timer from '../timer/Timer';
+import PhonemeHighlighter from "./PhonemeHighlighter";
 
 const Phonetics = () => {
   const [isModalOpen, setModalOpen] = useState(false);
@@ -37,9 +38,20 @@ const Phonetics = () => {
     setOpenAccordions(updatedAccordions);
   };
 
+  const extractPhonemes = (accordeon) => {
+    if (!Array.isArray(accordeon)) return [];
+    return accordeon
+      .map((item) => {
+        const match = item.match(/^'(.+?)'/);
+        return match ? match[1].toLowerCase() : null;
+      })
+      .filter(Boolean);
+  };
+  
+
   return (
     <div>
-      <Timer/>
+      <Timer />
       {videoData.map((video, index) => (
         <div className={css.article} key={video.id}>
           <div className={css.chart}>
@@ -56,18 +68,18 @@ const Phonetics = () => {
           {/* Акордеон */}
           <button
             className={`${css.accordion} ${
-              openAccordions[index] ? 'active' : ''
+              openAccordions[index] ? "active" : ""
             }`}
             onClick={() => toggleAccordion(index)}
           >
-            WHAT LETTER SOUNDS LIKE 
+            WHAT LETTER SOUNDS LIKE
           </button>
           <div
             className={css.panel}
             style={{
-              maxHeight: openAccordions[index] ? '1000px' : '0',
-              overflow: 'hidden',
-              transition: 'max-height 0.3s ease',
+              maxHeight: openAccordions[index] ? "1000px" : "0",
+              overflow: "hidden",
+              transition: "max-height 0.3s ease",
             }}
           >
             {video.accordeon.map((item, i) => (
@@ -75,7 +87,12 @@ const Phonetics = () => {
             ))}
           </div>
 
-          <p className={css.paragraph}> {video.text} </p>
+          <p className={css.paragraph}>
+            <PhonemeHighlighter
+              text={video.text}
+              phonemes={extractPhonemes(video.accordeon)}
+            />
+          </p>
         </div>
       ))}
 
@@ -86,10 +103,10 @@ const Phonetics = () => {
             height="315"
             src={selectedVideo.src}
             style={{
-              border: '1px solid blue',
-              borderRadius: '5px',
-              overflow: 'hidden',
-              padding: '5px',
+              border: "1px solid blue",
+              borderRadius: "5px",
+              overflow: "hidden",
+              padding: "5px",
             }}
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen

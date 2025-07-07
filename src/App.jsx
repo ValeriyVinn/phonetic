@@ -7,7 +7,7 @@ function App() {
     <>
       {/* <h1>Phonetic</h1> */}
       <Phonetic />
-    </>
+          </>
   );
 }
 
