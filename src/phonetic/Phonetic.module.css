@@ -1,15 +1,37 @@
+.phonetics{
+  position: relative;
+  display: flex;
+  /* justify-content: space-around; */
+  /* width: 1600px; */
+  /* padding: 20px; */
+  overflow: auto;
+}
+
+.sideMenu{
+  width: 70px;
+  position: fixed;
+  top: 0;
+  left: 10;
+  height: 100vh;
+  /* display: flex;
+flex-direction: column; */
+  overflow: auto;
+}
+.main {
+margin-left: 90px;
+  width: 1000px;
+}
+
 .article {
   border: 1px solid green;
   padding: 20px;
   border-radius: 5px;
   margin: 10px auto;
-  /* width: 95%; */
+  width: 100%;
   /* background-color: yellow; */
   background-color: rgb(247, 246, 246);
+  
 }
-
-/* .phoneticsSectionHeader {
-} */
 
 .chart {
   display: flex;
@@ -39,12 +61,12 @@
 
 .btnWatchVideo {
   color: green;
-  padding: 10px;
+  padding: 5px;
   border: 2px solid green;
   border-radius: 5px;
 }
 
-/* ! accordeon -- */
+/* ! accordion -- */
 .accordion {
   display: block;
   background-color: rgb(212, 255, 230);
@@ -55,6 +77,11 @@
   border: 1px solid rgb(121, 241, 171);
   outline: none;
   transition: background-color 0.3s ease;
+}
+
+.accordion:hover{
+  background-color: rgb(176, 255, 209);
+
 }
 
 .accordion.active {

@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import Modal from '../Modal/Modal';
+import  { useState, useEffect } from 'react';
+import Modal from '../modal/Modal';
 import css from './Timer.module.css';
 
 const Timer = () => {
@@ -54,7 +54,7 @@ const Timer = () => {
         // https://www.youtube.com/shorts/0zQaNicTyCM
         className={css.restTimerHeader} 
       >
-        Training timer
+        Timer
       </a>
       <a
         href="https://www.youtube.com/shorts/0zQaNicTyCM"  target="_blank" rel="noreferrer"
