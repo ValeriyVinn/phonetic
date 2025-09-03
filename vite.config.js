@@ -7,5 +7,5 @@ export default defineConfig({
   //   open: "/phonetic/", // This will automatically open http://localhost:5173/phonetic/
   // },
   plugins: [react()],
-  base: "/phonetic/",
+  base: "/",
 });
