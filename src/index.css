@@ -106,3 +106,9 @@ div {
   box-sizing: border-box;
   max-width: 100%; /* за замовчуванням */
 }
+
+.highlight {
+  color: red;
+  font-weight: bold;
+}
+
