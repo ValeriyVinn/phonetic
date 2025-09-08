@@ -1,51 +1,54 @@
-.phonetics{
+
+
+
+.phonetics {
   position: relative;
   display: flex;
-  /* justify-content: space-around; */
-  /* width: 1600px; */
-  /* padding: 20px; */
   overflow: auto;
+  padding-bottom: 5rem;
 }
 
-.sideMenu{
+/* ==== Side Menu ==== */
+.sideMenu {
   width: 70px;
   position: fixed;
   top: 0;
-  left: 10;
+  left: 0;
   height: 100vh;
-  /* display: flex;
-flex-direction: column; */
   overflow: auto;
 }
+
 .main {
-margin-left: 90px;
-  width: 1000px;
+  margin-left: 90px;
+  max-width: 1000px;
+  flex: 1;
 }
 
+/* ==== Article Card ==== */
 .article {
   border: 1px solid green;
-  padding: 20px;
-  border-radius: 5px;
-  margin: 10px auto;
+  padding: 1.25rem; 
+  border-radius: 0.5rem;
+  margin: 0rem auto 1rem;
   width: 100%;
-  /* background-color: yellow; */
   background-color: rgb(247, 246, 246);
-  
 }
 
 .chart {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  margin-bottom: 15px;
+  align-items:start;
+  /* margin-bottom: 1rem; */
 }
 
 .description {
-  margin-left: 30px;
+  margin-left: 2rem;
 }
 
 .paragraph {
   text-transform: uppercase;
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
 .red {
@@ -53,35 +56,42 @@ margin-left: 90px;
 }
 
 .green {
-  /* color: rgb(0, 208, 0);
-     */
-  color: red;
-  /* font-weight: 500; */
+  color: green;
 }
 
 .btnWatchVideo {
+  margin-left: 0.5rem;
+  margin-bottom: 1rem;
   color: green;
-  padding: 5px;
+  padding: 0.5rem 1rem;
   border: 2px solid green;
-  border-radius: 5px;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  background: white;
+  transition: background-color 0.3s ease;
 }
 
-/* ! accordion -- */
+.btnWatchVideo:hover {
+  background-color: rgb(212, 255, 230);
+}
+
+/* ==== Accordion ==== */
 .accordion {
   display: block;
   background-color: rgb(212, 255, 230);
   cursor: pointer;
-  padding: 10px;
+  padding: 0.75rem;
   width: 100%;
   text-align: left;
   border: 1px solid rgb(121, 241, 171);
   outline: none;
   transition: background-color 0.3s ease;
+  font-size: 1rem;
 }
 
-.accordion:hover{
+.accordion:hover {
   background-color: rgb(176, 255, 209);
-
 }
 
 .accordion.active {
@@ -89,9 +99,94 @@ margin-left: 90px;
 }
 
 .panel {
-  padding: 0 10px;
+  padding: 0 0.75rem;
   background-color: white;
   overflow: hidden;
   transition: max-height 0.3s ease;
-  margin-bottom: 10px;
+  margin-bottom: 0.75rem;
+}
+
+/* ========================= */
+/* 📱 Mobile (до 767px) */
+/* ========================= */
+@media (max-width: 767px) {
+  .phonetics {
+    flex-direction: column;
+  }
+
+  .sideMenu {
+    position: static;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+
+  .main {
+    margin-left: 0;
+    width: 100%;
+    padding: 0 0.5rem;
+  }
+
+  .btnWatchVideo {
+    font-size: 0.9rem;
+    padding: 0.4rem 0.8rem;
+  }
+
+  .paragraph {
+    font-size: 0.9rem;
+  }
+}
+
+/* ========================= */
+/* 📲 Tablet (768px – 1023px) */
+/* ========================= */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .main {
+    margin-left: 80px;
+    max-width: 700px;
+  }
+
+  .btnWatchVideo {
+    font-size: 1rem;
+   
+  }
+
+  .paragraph {
+    font-size: 1rem;
+  }
+}
+
+/* ========================= */
+/* 💻 Laptop (1024px – 1439px) */
+/* ========================= */
+@media (min-width: 1024px) and (max-width: 1439px) {
+  .main {
+    margin-left: 90px;
+    max-width: 900px;
+  }
+
+  .paragraph {
+    font-size: 1.1rem;
+  }
+}
+
+/* ========================= */
+/* 🖥 Desktop (1440px+) */
+/* ========================= */
+@media (min-width: 1440px) {
+  .main {
+    margin-left: 100px;
+    max-width: 1200px;
+  }
+
+  .paragraph {
+    font-size: 1.25rem;
+  }
+
+  .btnWatchVideo {
+    font-size: 1.1rem;
+    padding: 0.6rem 1.2rem;
+  }
 }

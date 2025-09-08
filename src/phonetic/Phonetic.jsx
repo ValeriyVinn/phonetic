@@ -4,7 +4,6 @@ import videoData from "../data/PhoneticsVideoData.json";
 import Modal from "../modal/Modal";
 // import Timer from '../timer/Timer';
 import PhonemeHighlighter from "./PhonemeHighlighter";
-// import Menu from '../phonetic-menu/PhoneticMenu';
 import PhoneticMenu from "../phonetic-menu/PhoneticMenu";
 
 const Phonetics = () => {
@@ -67,7 +66,7 @@ const Phonetics = () => {
                 className={css.btnWatchVideo}
                 onClick={() => openModal(video)}
               >
-                Watch Video
+                Video
               </button>
             </div>
 
@@ -109,10 +108,10 @@ const Phonetics = () => {
               height="315"
               src={selectedVideo.src}
               style={{
-                border: "1px solid blue",
+                border: "1px solid green",
                 borderRadius: "5px",
                 overflow: "hidden",
-                padding: "5px",
+                padding: "3px",
               }}
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
