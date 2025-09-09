@@ -274,7 +274,7 @@
     "phoneme": "/p/",
     "title": "Consonant sound /p/ as in 'pie'",
     "src": "https://www.youtube.com/embed/V_n_rUKQSew?si=SN_dsb6nqAWyd1Lf",
-    "text": "Pretty puppies at a pull party",
+    "text": "<span class='highlight'>P</span>re<span class='highlight'></span>tty <span class='highlight'>p</span>u<span class='highlight'>pp</span>ies at a <span class='highlight'>p</span>ull <span class='highlight'>p</span>arty",
     "accordeon": ["'P': put, ship", "'PP': happy, apply"]
   },
   {
@@ -282,7 +282,7 @@
     "phoneme": "/b/",
     "title": "Consonant sound /b/ as in 'boy'",
     "src": "https://www.youtube.com/embed/ZfjPBN22mK8?si=U-Mf3Ub0snHRCa1O",
-    "text": "A black baby bat in bathtub",
+    "text": "A <span class='highlight'>b</span>lack <span class='highlight'>b</span>a<span class='highlight'>b</span>y <span class='highlight'>b</span>at in <span class='highlight'>b</span>ed",
     "accordeon": ["'B': club, back", "'BB': rabbit, stubborn"]
   },
   {
@@ -290,7 +290,7 @@
     "phoneme": "/t/",
     "title": "Consonant sound /t/ as in 'toy'",
     "src": "https://www.youtube.com/embed/mLlotV_0dRI?si=jzQihAywJcpGLt2H",
-    "text": "Two turtles took a train to tijuana",
+    "text": "<span class='highlight'>T</span>wo <span class='highlight'>t</span>ur<span class='highlight'>t</span>les <span class='highlight'>t</span>ook a <span class='highlight'>t</span>rain <span class='highlight'>t</span>o <span class='highlight'>t</span>ijuana",
     "accordeon": [
       "'T': time, get, hotel",
       "'TT': attorney, attach",
@@ -302,7 +302,7 @@
     "phoneme": "/t̬/",
     "title": "Consonant sound Flapt 'T' /t̬/ as in 'water'",
     "src": "https://www.youtube.com/embed/9b-UIkuwOdU?si=nErogrf3hWkIYfsr",
-    "text": "Forty letters in a bottle",
+    "text": "For<span class='highlight'>t</span>y le<span class='highlight'>tt</span>ers in a bo<span class='highlight'>tt</span>le",
     "accordeon": ["'T': water, ability", "'TT': little, pretty"]
   },
   {
@@ -310,7 +310,7 @@
     "phoneme": "/ʔ/",
     "title": "Consonant sound Glottal 'T' /ʔ/ as in 'button'",
     "src": "https://www.youtube.com/embed/Vabg-EUHOQk?si=FV2Hw4Z4QxMlWksh",
-    "text": "Kittens in satin mittens",
+    "text": "Ki<span class='highlight'>tt</span>ens in sa<span class='highlight'>t</span>in mi<span class='highlight'>tt</span>ens",
     "accordeon": ["'T': certain, eaten", "'TT': cotton, button"]
   },
   {
@@ -318,7 +318,7 @@
     "phoneme": "/d/",
     "title": "Consonant sound /d/ as in 'dog'",
     "src": "https://www.youtube.com/embed/N73xPe0x79g?si=6RybK-vKNkxE7-OM",
-    "text": "Ducks danced from dusk till dawn",
+    "text": "<span class='highlight'>D</span>ucks <span class='highlight'>d</span>anced from <span class='highlight'>d</span>usk till <span class='highlight'>d</span>awn",
     "accordeon": ["'D': do, today", "'DD': buddy, add"]
   },
   {
@@ -326,7 +326,7 @@
     "phoneme": "/k/",
     "title": "Consonant sound /k/ as in 'key'",
     "src": "https://www.youtube.com/embed/zxrveu6yu6E?si=-2Jqk9O09aep7SIu",
-    "text": "A crow in a coat caught a cold",
+    "text": "A <span class='highlight'>c</span>row in a <span class='highlight'>c</span>oat <span class='highlight'>c</span>aught a <span class='highlight'>c</span>old",
     "accordeon": [
       "'C': can, clean",
       "'K': like, keep",
@@ -342,7 +342,7 @@
     "phoneme": "/ɡ/",
     "title": "Consonant sound /ɡ/ as in 'gift'",
     "src": "https://www.youtube.com/embed/vP5XKYvxe0Q?si=gZbKliHKVibBHRdq",
-    "text": "A gray goat’s  gonna  grow",
+    "text": "A <span class='highlight'>g</span>ray <span class='highlight'>g</span>oat’s  <span class='highlight'>g</span>onna  <span class='highlight'>g</span>row",
     "accordeon": ["'G': great, dog", "'GG': egg, struggle", "'X': exact, exam"]
   },
   {
@@ -350,7 +350,7 @@
     "phoneme": "/f/",
     "title": "Consonant sound /f/ as in 'fun'",
     "src": "https://www.youtube.com/embed/05f62-73nrY?si=xFKxDl35zRXErJzI",
-    "text": "Friendly frogs fry figs on Fridays",
+    "text": "<span class='highlight'>F</span>riendly <span class='highlight'>f</span>rogs <span class='highlight'>f</span>ry <span class='highlight'>f</span>igs on <span class='highlight'>F</span>ridays",
     "accordeon": [
       "'F': from, if",
       "'FF': stuff, traffic",
@@ -364,7 +364,7 @@
     "phoneme": "/v/",
     "title": "Consonant sound /v/ as in 'very'",
     "src": "https://www.youtube.com/embed/U5Oro6v0klg?si=d9adEpyQeT8_ZdvU",
-    "text": "Vivid vacation in a vintage van",
+    "text": "<span class='highlight'>V</span>i<span class='highlight'>v</span>id <span class='highlight'>v</span>acation in a <span class='highlight'>v</span>intage <span class='highlight'>v</span>an",
     "accordeon": ["'V': have, very", "'F': of, thereof"]
   },
   {
@@ -372,7 +372,7 @@
     "phoneme": "/θ/",
     "title": "Consonant sound /θ/ (voiceless 'th') as in 'think'",
     "src": "https://www.youtube.com/embed/qC0l6GQZtM4?si=LLn1mL3G8S73RbCu",
-    "text": "A sloth with a moth in a cloth",
+    "text": "A slo<span class='highlight'>th</span> wi<span class='highlight'>th</span> a mo<span class='highlight'>th</span> in a clo<span class='highlight'>th</span>",
     "accordeon": ["'TH': think, bath"]
   },
   {
@@ -380,7 +380,7 @@
     "phoneme": "/ð/",
     "title": "Consonant sound /ð/ (voiced 'th') as in 'this'",
     "src": "https://www.youtube.com/embed/EZb_EWVCUoE?si=_QMnG_1uYq1DFNtT",
-    "text": "That’s their mother, father and brother",
+    "text": "<span class='highlight'>Th</span>at’s <span class='highlight'>th</span>eir mo<span class='highlight'>th</span>er, fa<span class='highlight'>th</span>er and bro<span class='highlight'>th</span>er",
     "accordeon": ["'TH': this, mother"]
   },
   {
@@ -388,7 +388,7 @@
     "phoneme": "/s/",
     "title": "Consonant sound /s/ as in 'sun'",
     "src": "https://www.youtube.com/embed/6hWPXaPXrnQ?si=BoSTS1i8e3nG_B-i",
-    "text": "A sailor snapped a solid selfie",
+    "text": "The <span class='highlight'>s</span>ailor <span class='highlight'>s</span>napped a <span class='highlight'>s</span>olid <span class='highlight'>s</span>elfie",
     "accordeon": [
       "'S': see, house, bus",
       "'C': cent, city, fancy",
@@ -402,7 +402,7 @@
     "phoneme": "/z/",
     "title": "Consonant sound /z/ as in 'zoo'",
     "src": "https://www.youtube.com/embed/ky7Jh9Bbjts?si=QqRY_--7ZNLGVm85",
-    "text": "Lazy zebras raised a lizard",
+    "text": "La<span class='highlight'>z</span>y <span class='highlight'>z</span>ebra<span class='highlight'>s</span> rai<span class='highlight'>s</span>ed a li<span class='highlight'>z</span>ard",
     "accordeon": [
       "'S': easy, please",
       "'Z': zoo, size",
@@ -415,7 +415,7 @@
     "phoneme": "/ʃ/",
     "title": "Consonant sound /ʃ/ as in 'show'",
     "src": "https://www.youtube.com/embed/wINb4HFguck?si=dFgOFHQrpDJ0VU-B",
-    "text": "Stylish sheep shopped for shoes",
+    "text": "Styli<span class='highlight'>sh</span> <span class='highlight'>sh</span>eep <span class='highlight'>sh</span>opped for <span class='highlight'>sh</span>oes",
     "accordeon": [
       "'T': station, patient",
       "'SH': show, wish",
@@ -431,7 +431,7 @@
     "phoneme": "/ʒ/",
     "title": "Consonant sound /ʒ/ as in 'vision'",
     "src": "https://www.youtube.com/embed/k8ImSmVOSVA?si=wBAfC5tjq_VGhHCS",
-    "text": "A concierge with amnesia made a decision",
+    "text": "A concier<span class='highlight'>g</span>e with amne<span class='highlight'>s</span>ia made a deci<span class='highlight'>s</span>ion",
     "accordeon": [
       "'S': decision, measure",
       "'G': massage, beige",
@@ -443,7 +443,7 @@
     "phoneme": "/h/",
     "title": "Consonant sound /h/ as in 'home'",
     "src": "https://www.youtube.com/embed/dV6At0g4n78?si=8WUeKp0-gYhQOvZ6",
-    "text": "A horse helped a herd of hedgehogs",
+    "text": "A <span class='highlight'>h</span>orse <span class='highlight'>h</span>elped a <span class='highlight'>h</span>erd of <span class='highlight'>h</span>edge<span class='highlight'>h</span>ogs",
     "accordeon": ["'H': he, who, perhaps"]
   },
   {
@@ -451,7 +451,7 @@
     "phoneme": "/tʃ/",
     "title": "Consonant sound /tʃ/ as in 'chair'",
     "src": "https://www.youtube.com/embed/WoyI_omRpcw?si=8_H1kXN1C7hxF5ku",
-    "text": "Children chose chili cheese chips",
+    "text": "<span class='highlight'>Ch</span>ildren <span class='highlight'>ch</span>ose <span class='highlight'>ch</span>ili <span class='highlight'>ch</span>eese <span class='highlight'>ch</span>ips",
     "accordeon": [
       "'CH': chair, much",
       "'T': nature, question",
@@ -464,7 +464,7 @@
     "phoneme": "/dʒ/",
     "title": "Consonant sound /dʒ/ as in 'job'",
     "src": "https://www.youtube.com/embed/zJJ3hhHtjtI?si=BLfeEkFWCAEg2-Am",
-    "text": "A jockey in jeans joined a gym",
+    "text": "A <span class='highlight'>j</span>ockey in <span class='highlight'>j</span>eans <span class='highlight'>j</span>oined a <span class='highlight'>g</span>ym",
     "accordeon": [
       "'G': change, gym",
       "'J': job, project",
@@ -478,7 +478,7 @@
     "phoneme": "/r/",
     "title": "Consonant sound /r/ as in 'run'",
     "src": "https://www.youtube.com/embed/q5a2-KuHkBU?si=ZaZmeDMnUFODacfe",
-    "text": "A rat rides a train in the rain",
+    "text": "A <span class='highlight'>r</span>at <span class='highlight'>r</span>ode a t<span class='highlight'>r</span>ain in the <span class='highlight'>r</span>ain",
     "accordeon": ["'R': right, from", "'RR': arrive, correct"]
   },
   {
@@ -486,7 +486,7 @@
     "phoneme": "/l/",
     "title": "Consonant sound /l/ as in 'let'",
     "src": "https://www.youtube.com/embed/JamM8TgB_AA?si=K-Rt5TBjNHbg0MjP",
-    "text": "A lone lamb lost his land",
+    "text": "A <span class='highlight'>l</span>one <span class='highlight'>l</span>amb <span class='highlight'>l</span>ost his <span class='highlight'>l</span>and",
     "accordeon": ["'L': like, table", "'LL': all, collect"]
   },
   {
@@ -494,7 +494,7 @@
     "phoneme": "/ɫ/",
     "title": "Consonant sound dark /ɫ/ as in 'call'",
     "src": "https://www.youtube.com/embed/ZTgYjGXFAkw?si=cFsCn1PBGRmvwlwN",
-    "text": "Tall Paul will fill the small bottle full.",
+    "text": "Ta<span class='highlight'>ll</span> Pau<span class='highlight'>l</span> wi<span class='highlight'>ll</span> fi<span class='highlight'>ll</span> the sma<span class='highlight'>ll</span> bott<span class='highlight'>l</span>e fu<span class='highlight'>ll</span>.",
     "accordeon": ["'L': will, fill, trouble, people, control"]
   },
   {
@@ -502,7 +502,7 @@
     "phoneme": "/n/",
     "title": "Consonant sound /n/ as in 'nice'",
     "src": "https://www.youtube.com/embed/1eyr7O4TFmI?si=snTFKYq8yTARN5jx",
-    "text": "A night nurse napped till nine",
+    "text": "A <span class='highlight'>n</span>ight <span class='highlight'>n</span>urse <span class='highlight'>n</span>apped till <span class='highlight'>n</span>ine",
     "accordeon": ["'N': name, bench", "'NN': dinner, tennis"]
   },
   {
@@ -510,7 +510,7 @@
     "phoneme": "/m/",
     "title": "Consonant sound /m/ as in 'map'",
     "src": "https://www.youtube.com/embed/tkiN8BsBEfA?si=OB8o28fesrhpI3QA",
-    "text": "Masked mice a meal at midnight",
+    "text": "<span class='highlight'>M</span>asked <span class='highlight'>m</span>ice <span class='highlight'>m</span>ade a <span class='highlight'>m</span>eal at <span class='highlight'>m</span>idnight",
     "accordeon": ["'M': come, rhythm", "'MM': summer, common"]
   },
   {
@@ -518,7 +518,7 @@
     "phoneme": "/ŋ/",
     "title": "Consonant sound /ŋ/ as in 'thing'",
     "src": "https://www.youtube.com/embed/5xVq8T88oJw?si=HyMhjh4pvkoMpsxU",
-    "text": "A king sang the wrong song",
+    "text": "A ki<span class='highlight'>ng</span> sa<span class='highlight'>ng</span> the wro<span class='highlight'>ng</span> so<span class='highlight'>ng</span>",
     "accordeon": ["'N': think, finger", "'NG': thing, long"]
   },
   {
@@ -526,7 +526,7 @@
     "phoneme": "/w/",
     "title": "Consonant sound /w/ as in 'way'",
     "src": "https://www.youtube.com/embed/nMB5mX_PGHQ?si=0wjO3j5xdX1WC7Y9",
-    "text": "White whale winked and went away",
+    "text": "A <span class='highlight'>w</span>hite <span class='highlight'>w</span>hale <span class='highlight'>w</span>inked and <span class='highlight'>w</span>ent a<span class='highlight'>w</span>ay",
     "accordeon": ["'W': we, twice", "'U': quite, suite", "etc.: one, choir"]
   },
   {
@@ -534,7 +534,7 @@
     "phoneme": "/j/",
     "title": "Consonant sound /j/ as in 'yes'",
     "src": "https://www.youtube.com/embed/1G8SCotE2yg?si=MWOxI38HqSBc2rxC",
-    "text": "Unicorn yell in your backyard",
+    "text": "<span class='highlight'>U</span>nicorns <span class='highlight'>y</span>ell in <span class='highlight'>y</span>our back<span class='highlight'>y</span>ard",
     "accordeon": [
       "'U': deputy, popular",
       "'Y': you, canyon",
