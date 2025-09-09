@@ -103,6 +103,11 @@
   transition: max-height 0.3s ease;
   margin-bottom: 0.75rem;
 }
+.mnemonic {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
 
 /* ========================= */
 /* 📱 Mobile (до 767px) */

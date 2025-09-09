@@ -4,6 +4,7 @@
     "phoneme": "/i/",
     "title": "Vowel sound /i/ as in 'be'",
     "src": "https://www.youtube.com/embed/PIu5WDIco0I?si=0u-vn_RIcPab4mnI",
+    "mnemonic": "https://www.youtube.com/embed/nod5-jSvseg",
     "text": "A qu<span class='highlight'>ee</span>n <span class='highlight'>ea</span>ts gr<span class='highlight'>ee</span>n cr<span class='highlight'>ea</span>m.",
     "accordeon": [
       "'Y': city",
@@ -20,6 +21,7 @@
     "phoneme": "/ɪ/",
     "title": "Vowel sound /ɪ/ as in 'it'",
     "src": "https://www.youtube.com/embed/Ok_HG-0lNCA?si=vCPWEvzYZJE5KP-k",
+    "mnemonic": "https://www.youtube.com/embed/uR5bReYc42E",
     "text": "A k<span class='highlight'>i</span>d m<span class='highlight'>i</span>ssed h<span class='highlight'>i</span>s sh<span class='highlight'>i</span>p.",
     "accordeon": [
       "'I': it, drink",
@@ -34,6 +36,7 @@
     "phoneme": "/ʌ/",
     "title": "Vowel sound /ʌ/ as in 'us'",
     "src": "https://www.youtube.com/embed/X1utTZqC3AI?si=iFiYRoGCaRNqc18M",
+    "mnemonic": "https://www.youtube.com/embed/QOcqNGu_zJY",
     "text": "A d<span class='highlight'>u</span>ck c<span class='highlight'>o</span>mes into a p<span class='highlight'>u</span>b.",
     "accordeon": ["'U': but", "'O': come", "'OU': young", "'OO': flood"]
   },
@@ -42,6 +45,7 @@
     "phoneme": "/ɑ/",
     "title": "Vowel sound /ɑ/ as in 'got'",
     "src": "https://www.youtube.com/embed/R5CY1UniS68?si=9pL2kZUTmWsIwfwV",
+    "mnemonic": "https://www.youtube.com/embed/Cym-nXySiMA",
     "text": "A f<span class='highlight'>o</span>x g<span class='highlight'>o</span>t a sh<span class='highlight'>o</span>ck in a sh<span class='highlight'>o</span>p.",
     "accordeon": ["'O': stop, got", "'A': want, father", "etc.: trauma, genre"]
   },
@@ -50,6 +54,7 @@
     "phoneme": "/ɛ/",
     "title": "Vowel sound /ɛ/ as in 'bed'",
     "src": "https://www.youtube.com/embed/OLG3cCLcNiI?si=dpq6nNTcQbE4ZTBT",
+    "mnemonic": "https://www.youtube.com/embed/xO0X3Emy3OE",
     "text": "A w<span class='highlight'>e</span>t <span class='highlight'>e</span>lk in a sh<span class='highlight'>e</span>d.",
     "accordeon": [
       "'E': get, let, end",
@@ -63,6 +68,7 @@
     "phoneme": "/ə/",
     "title": "Vowel sound /ə/ (schwa) as in 'ago'",
     "src": "https://www.youtube.com/embed/m1mDSUSwNls?si=Ft_iVJ8nt4eF8gsm",
+    "mnemonic": "https://www.youtube.com/embed/TmemsEd2a88",
     "text": "Sev<span class='highlight'>e</span>n b<span class='highlight'>a</span>lloons <span class='highlight'>a</span>bove the oc<span class='highlight'>ea</span>n",
     "accordeon": [
       "'A': above",
@@ -78,6 +84,7 @@
     "phoneme": "/æ/",
     "title": "Vowel sound /æ/ as in 'cat'",
     "src": "https://www.youtube.com/embed/mynucZiy-Ug?si=nrz4oxjXwtNFA5Kg",
+    "mnemonic": "https://www.youtube.com/embed/ycGi-LiH9uU",
     "text": "A f<span class='highlight'>a</span>t bl<span class='highlight'>a</span>ck c<span class='highlight'>a</span>t in a h<span class='highlight'>a</span>t h<span class='highlight'>a</span>d a n<span class='highlight'>a</span>p",
     "accordeon": ["'A': cat", "'AL': half", "'AU': laugh"]
   },
@@ -86,6 +93,7 @@
     "phoneme": "/ɔ/",
     "title": "Vowel sound /ɔ/ as in 'on'",
     "src": "https://www.youtube.com/embed/pr_KAu-_Hmo?si=L3gi5N7_dd_4Z0Mk",
+    "mnemonic": "https://www.youtube.com/embed/ZcZeNL2bNUE",
     "text": "A sm<span class='highlight'>a</span>ll fr<span class='highlight'>o</span>g l<span class='highlight'>o</span>st in a f<span class='highlight'>o</span>g",
     "accordeon": [
       "'O': on",
@@ -102,6 +110,7 @@
     "phoneme": "/ʊ/",
     "title": "Vowel sound /ʊ/ as in 'put'",
     "src": "https://www.youtube.com/embed/moLTR-dLQQY?si=MjUnKsAHfyrdWAR_",
+    "mnemonic": "https://www.youtube.com/embed/xZAsIqv5FDY",
     "text": "A c<span class='highlight'>oo</span>k st<span class='highlight'>oo</span>d in a br<span class='highlight'>oo</span>k",
     "accordeon": ["'U': put", "'OO': book", "'O': wolf", "'OU': could"]
   },
@@ -110,6 +119,7 @@
     "phoneme": "/u/",
     "title": "Vowel sound /u/ as in 'blue'",
     "src": "https://www.youtube.com/embed/lkM6CKBM2ns?si=cgiCYRNpZRGj0z6l",
+    "mnemonic": "https://www.youtube.com/embed/N34ZKV7eMog",
     "text": "C<span class='highlight'>u</span>te tr<span class='highlight'>oo</span>ps in bl<span class='highlight'>u</span>e b<span class='highlight'>oo</span>ts",
     "accordeon": [
       "'U': rule",
@@ -124,6 +134,7 @@
     "phoneme": "/aʊ/",
     "title": "Vowel sound /aʊ/ as in 'cloud'",
     "src": "https://www.youtube.com/embed/-V690OA75bA?si=5k4alngWDIaLzY2X",
+    "mnemonic": "https://www.youtube.com/embed/yWC1sJ1RPFA",
     "text": "A pr<span class='highlight'>ou</span>d cl<span class='highlight'>ow</span>n in the cr<span class='highlight'>ow</span>n",
     "accordeon": ["'OU': couch", "'OW': cow"]
   },
@@ -132,6 +143,7 @@
     "phoneme": "/oʊ/",
     "title": "Vowel sound /oʊ/ as in 'go'",
     "src": "https://www.youtube.com/embed/4kPJLHiiGdU?si=c_h-vINE2OZFqFWG",
+    "mnemonic": "https://www.youtube.com/embed/V70LCIystx8",
     "text": "A gh<span class='highlight'>o</span>st h<span class='highlight'>o</span>pes for a h<span class='highlight'>o</span>me",
     "accordeon": [
       "'O': go",
@@ -146,6 +158,7 @@
     "phoneme": "/aɪ/",
     "title": "Vowel sound /aɪ/ as in 'like'",
     "src": "https://www.youtube.com/embed/8uD-GuuSgyk?si=kXB9u6BJG4TWwfLo",
+    "mnemonic": "https://www.youtube.com/embed/j1N-knNLtsA",
     "text": "A br<span class='highlight'>i</span>ght k<span class='highlight'>i</span>te fl<span class='highlight'>i</span>es in the sk<span class='highlight'>y</span>",
     "accordeon": ["'I': like", "'Y': my", "etc.: violin, eye, buy"]
   },
@@ -154,6 +167,7 @@
     "phoneme": "/eɪ/",
     "title": "Vowel sound /eɪ/ as in 'make'",
     "src": "https://www.youtube.com/embed/0RXzfRcjk-s?si=jiCCpSOnvRBqTacE",
+    "mnemonic": "https://www.youtube.com/embed/kvpZoZUdA0o",
     "text": "A kr<span class='highlight'>a</span>ne t<span class='highlight'>a</span>kes a l<span class='highlight'>a</span>te tr<span class='highlight'>ai</span>n",
     "accordeon": [
       "'A': take",
@@ -168,6 +182,7 @@
     "phoneme": "/ɔɪ/",
     "title": "Vowel sound /ɔɪ/ as in 'boy'",
     "src": "https://www.youtube.com/embed/ZfjPBN22mK8?si=rTCOCUyNVex7Yw-w",
+    "mnemonic": "https://www.youtube.com/embed/TiOSOVukXDg",
     "text": "A b<span class='highlight'>oy</span> ann<span class='highlight'>oy</span>ed with his t<span class='highlight'>o</span>y",
     "accordeon": ["'OI': point", "'OY': boy", "etc.: lawyer"]
   },
@@ -177,6 +192,7 @@
     "phoneme": "/ɝ/",
     "title": "R-Colored vowel sound /ɝ/ as in 'first'",
     "src": "https://www.youtube.com/embed/6ppOrwjvslc?si=_NRsKcu8j3uNWDyc",
+    "mnemonic": "https://www.youtube.com/embed/BB9Gx4Y5sTs",
     "text": "A b<span class='highlight'>ir</span>d in a p<span class='highlight'>ur</span>ple sk<span class='highlight'>ir</span>t",
     "accordeon": [
       "'ER': her",
@@ -194,6 +210,7 @@
     "phoneme": "/ɚ/",
     "title": "R-Colored vowel sound /ɚ/ as in 'after'",
     "src": "https://www.youtube.com/embed/AzNRoSGBh44?si=jXxdhIiy1bZ7oyEA",
+    "mnemonic": "https://www.youtube.com/embed/s3pSl4hx_KQ",
     "text": "Eag<span class='highlight'>er</span> tig<span class='highlight'>er</span>s hamm<span class='highlight'>er</span> spid<span class='highlight'>er</span>s",
     "accordeon": [
       "'ER': never",
@@ -209,6 +226,7 @@
     "phoneme": "/ɪr/",
     "title": "R-Colored vowel sound /ɪr/ as in 'hero'",
     "src": "https://www.youtube.com/embed/X0bkG5ZfzH4?si=IP-dHRSaviGcmZSv",
+    "mnemonic": "https://www.youtube.com/embed/-s_2dkuRqxM",
     "text": "B<span class='highlight'>eer</span> for a d<span class='highlight'>eer</span> on a p<span class='highlight'>ier</span>",
     "accordeon": [
       "'ER': here",
@@ -223,6 +241,7 @@
     "phoneme": "/ɛr/",
     "title": "R-Colored vowel sound /ɛr/ as in 'chair'",
     "src": "https://www.youtube.com/embed/ZjurI7xtCjE?si=uaJdTvtBNzwzfeUQ",
+    "mnemonic": "https://www.youtube.com/embed/3X8D0gu81qY",
     "text": "A b<span class='highlight'>ear</span> with a p<span class='highlight'>ear</span> on a ch<span class='highlight'>air</span>",
     "accordeon": [
       "'AR': care, parent",
@@ -238,6 +257,7 @@
     "phoneme": "/ɑr/",
     "title": "R-Colored vowel sound /ɑr/ as in 'car'",
     "src": "https://www.youtube.com/embed/x6E2L2vLH78?si=YSlDNZH5wJVsPSAC",
+    "mnemonic": "https://www.youtube.com/embed/EdJCPfASQPA",
     "text": "A gu<span class='highlight'>ar</span>d with a sc<span class='highlight'>ar</span> in a c<span class='highlight'>ar</span>",
     "accordeon": [
       "'AR': start, car",
@@ -250,6 +270,7 @@
     "phoneme": "/ɔr/",
     "title": "R-Colored vowel sound /ɔr/ as in 'sport'",
     "src": "https://www.youtube.com/embed/ZbDrxmP4_S4?si=TO3r_BcJx9rpULYX",
+    "mnemonic": "https://www.youtube.com/embed/e_I9eFX5mtk",
     "text": "A h<span class='highlight'>or</span>se sn<span class='highlight'>or</span>es on a w<span class='highlight'>ar</span>m sh<span class='highlight'>or</span>e",
     "accordeon": [
       "'OR': for, adore",
@@ -266,6 +287,7 @@
     "phoneme": "/aɪr/",
     "title": "R-Colored vowel sound /aɪr/ as in 'fire'",
     "src": "https://www.youtube.com/embed/PdV7RymsiMY?si=HCRiYSnyIF-QmlLL",
+    "mnemonic": "https://www.youtube.com/embed/FUypj1jfNL0",
     "text": "New att<span class='highlight'>ir</span>e for vamp<span class='highlight'>ir</span>e",
     "accordeon": ["'IR': fire, wire", "etc.: dryer, supplier"]
   },
@@ -274,6 +296,7 @@
     "phoneme": "/p/",
     "title": "Consonant sound /p/ as in 'pie'",
     "src": "https://www.youtube.com/embed/V_n_rUKQSew?si=SN_dsb6nqAWyd1Lf",
+    "mnemonic": "https://www.youtube.com/embed/YcSefeZOAyc",
     "text": "<span class='highlight'>P</span>re<span class='highlight'></span>tty <span class='highlight'>p</span>u<span class='highlight'>pp</span>ies at a <span class='highlight'>p</span>ull <span class='highlight'>p</span>arty",
     "accordeon": ["'P': put, ship", "'PP': happy, apply"]
   },
@@ -282,6 +305,7 @@
     "phoneme": "/b/",
     "title": "Consonant sound /b/ as in 'boy'",
     "src": "https://www.youtube.com/embed/ZfjPBN22mK8?si=U-Mf3Ub0snHRCa1O",
+    "mnemonic": "https://www.youtube.com/embed/CGsWhSvywus",
     "text": "A <span class='highlight'>b</span>lack <span class='highlight'>b</span>a<span class='highlight'>b</span>y <span class='highlight'>b</span>at in <span class='highlight'>b</span>ed",
     "accordeon": ["'B': club, back", "'BB': rabbit, stubborn"]
   },
@@ -290,6 +314,7 @@
     "phoneme": "/t/",
     "title": "Consonant sound /t/ as in 'toy'",
     "src": "https://www.youtube.com/embed/mLlotV_0dRI?si=jzQihAywJcpGLt2H",
+    "mnemonic": "https://www.youtube.com/embed/j9gHRJQIsgE",
     "text": "<span class='highlight'>T</span>wo <span class='highlight'>t</span>ur<span class='highlight'>t</span>les <span class='highlight'>t</span>ook a <span class='highlight'>t</span>rain <span class='highlight'>t</span>o <span class='highlight'>t</span>ijuana",
     "accordeon": [
       "'T': time, get, hotel",
@@ -302,6 +327,7 @@
     "phoneme": "/t̬/",
     "title": "Consonant sound Flapt 'T' /t̬/ as in 'water'",
     "src": "https://www.youtube.com/embed/9b-UIkuwOdU?si=nErogrf3hWkIYfsr",
+    "mnemonic": "https://www.youtube.com/embed/LmuLwj4ZQ0c",
     "text": "For<span class='highlight'>t</span>y le<span class='highlight'>tt</span>ers in a bo<span class='highlight'>tt</span>le",
     "accordeon": ["'T': water, ability", "'TT': little, pretty"]
   },
@@ -310,6 +336,7 @@
     "phoneme": "/ʔ/",
     "title": "Consonant sound Glottal 'T' /ʔ/ as in 'button'",
     "src": "https://www.youtube.com/embed/Vabg-EUHOQk?si=FV2Hw4Z4QxMlWksh",
+    "mnemonic": "https://www.youtube.com/embed/wIAN_77b6QQ",
     "text": "Ki<span class='highlight'>tt</span>ens in sa<span class='highlight'>t</span>in mi<span class='highlight'>tt</span>ens",
     "accordeon": ["'T': certain, eaten", "'TT': cotton, button"]
   },
@@ -318,6 +345,7 @@
     "phoneme": "/d/",
     "title": "Consonant sound /d/ as in 'dog'",
     "src": "https://www.youtube.com/embed/N73xPe0x79g?si=6RybK-vKNkxE7-OM",
+    "mnemonic": "https://www.youtube.com/embed/Pxc706u_Xng",
     "text": "<span class='highlight'>D</span>ucks <span class='highlight'>d</span>anced from <span class='highlight'>d</span>usk till <span class='highlight'>d</span>awn",
     "accordeon": ["'D': do, today", "'DD': buddy, add"]
   },
@@ -326,6 +354,7 @@
     "phoneme": "/k/",
     "title": "Consonant sound /k/ as in 'key'",
     "src": "https://www.youtube.com/embed/zxrveu6yu6E?si=-2Jqk9O09aep7SIu",
+    "mnemonic": "https://www.youtube.com/embed/KtmCFv1Wf8w",
     "text": "A <span class='highlight'>c</span>row in a <span class='highlight'>c</span>oat <span class='highlight'>c</span>aught a <span class='highlight'>c</span>old",
     "accordeon": [
       "'C': can, clean",
@@ -342,6 +371,7 @@
     "phoneme": "/ɡ/",
     "title": "Consonant sound /ɡ/ as in 'gift'",
     "src": "https://www.youtube.com/embed/vP5XKYvxe0Q?si=gZbKliHKVibBHRdq",
+    "mnemonic": "https://www.youtube.com/embed/Daf7EjyLPQI",
     "text": "A <span class='highlight'>g</span>ray <span class='highlight'>g</span>oat’s  <span class='highlight'>g</span>onna  <span class='highlight'>g</span>row",
     "accordeon": ["'G': great, dog", "'GG': egg, struggle", "'X': exact, exam"]
   },
@@ -350,6 +380,7 @@
     "phoneme": "/f/",
     "title": "Consonant sound /f/ as in 'fun'",
     "src": "https://www.youtube.com/embed/05f62-73nrY?si=xFKxDl35zRXErJzI",
+    "mnemonic": "https://www.youtube.com/embed/gwspHzNlM2g",
     "text": "<span class='highlight'>F</span>riendly <span class='highlight'>f</span>rogs <span class='highlight'>f</span>ry <span class='highlight'>f</span>igs on <span class='highlight'>F</span>ridays",
     "accordeon": [
       "'F': from, if",
@@ -364,6 +395,7 @@
     "phoneme": "/v/",
     "title": "Consonant sound /v/ as in 'very'",
     "src": "https://www.youtube.com/embed/U5Oro6v0klg?si=d9adEpyQeT8_ZdvU",
+    "mnemonic": "https://www.youtube.com/embed/sNrff011NGA",
     "text": "<span class='highlight'>V</span>i<span class='highlight'>v</span>id <span class='highlight'>v</span>acation in a <span class='highlight'>v</span>intage <span class='highlight'>v</span>an",
     "accordeon": ["'V': have, very", "'F': of, thereof"]
   },
@@ -372,6 +404,7 @@
     "phoneme": "/θ/",
     "title": "Consonant sound /θ/ (voiceless 'th') as in 'think'",
     "src": "https://www.youtube.com/embed/qC0l6GQZtM4?si=LLn1mL3G8S73RbCu",
+    "mnemonic": "https://www.youtube.com/embed/eWNZtKR5Rx8",
     "text": "A slo<span class='highlight'>th</span> wi<span class='highlight'>th</span> a mo<span class='highlight'>th</span> in a clo<span class='highlight'>th</span>",
     "accordeon": ["'TH': think, bath"]
   },
@@ -380,6 +413,7 @@
     "phoneme": "/ð/",
     "title": "Consonant sound /ð/ (voiced 'th') as in 'this'",
     "src": "https://www.youtube.com/embed/EZb_EWVCUoE?si=_QMnG_1uYq1DFNtT",
+    "mnemonic": "https://www.youtube.com/embed/KNJ1xPZcCUE",
     "text": "<span class='highlight'>Th</span>at’s <span class='highlight'>th</span>eir mo<span class='highlight'>th</span>er, fa<span class='highlight'>th</span>er and bro<span class='highlight'>th</span>er",
     "accordeon": ["'TH': this, mother"]
   },
@@ -388,6 +422,7 @@
     "phoneme": "/s/",
     "title": "Consonant sound /s/ as in 'sun'",
     "src": "https://www.youtube.com/embed/6hWPXaPXrnQ?si=BoSTS1i8e3nG_B-i",
+    "mnemonic": "https://www.youtube.com/embed/natmeeq0QXE",
     "text": "The <span class='highlight'>s</span>ailor <span class='highlight'>s</span>napped a <span class='highlight'>s</span>olid <span class='highlight'>s</span>elfie",
     "accordeon": [
       "'S': see, house, bus",
@@ -402,6 +437,7 @@
     "phoneme": "/z/",
     "title": "Consonant sound /z/ as in 'zoo'",
     "src": "https://www.youtube.com/embed/ky7Jh9Bbjts?si=QqRY_--7ZNLGVm85",
+    "mnemonic": "https://www.youtube.com/embed/uFDr42q82hE",
     "text": "La<span class='highlight'>z</span>y <span class='highlight'>z</span>ebra<span class='highlight'>s</span> rai<span class='highlight'>s</span>ed a li<span class='highlight'>z</span>ard",
     "accordeon": [
       "'S': easy, please",
@@ -415,6 +451,7 @@
     "phoneme": "/ʃ/",
     "title": "Consonant sound /ʃ/ as in 'show'",
     "src": "https://www.youtube.com/embed/wINb4HFguck?si=dFgOFHQrpDJ0VU-B",
+    "mnemonic": "https://www.youtube.com/embed/bXkll6CQeiM",
     "text": "Styli<span class='highlight'>sh</span> <span class='highlight'>sh</span>eep <span class='highlight'>sh</span>opped for <span class='highlight'>sh</span>oes",
     "accordeon": [
       "'T': station, patient",
@@ -431,6 +468,7 @@
     "phoneme": "/ʒ/",
     "title": "Consonant sound /ʒ/ as in 'vision'",
     "src": "https://www.youtube.com/embed/k8ImSmVOSVA?si=wBAfC5tjq_VGhHCS",
+    "mnemonic": "https://www.youtube.com/embed/LG_iJx0owVM",
     "text": "A concier<span class='highlight'>g</span>e with amne<span class='highlight'>s</span>ia made a deci<span class='highlight'>s</span>ion",
     "accordeon": [
       "'S': decision, measure",
@@ -443,6 +481,7 @@
     "phoneme": "/h/",
     "title": "Consonant sound /h/ as in 'home'",
     "src": "https://www.youtube.com/embed/dV6At0g4n78?si=8WUeKp0-gYhQOvZ6",
+    "mnemonic": "https://www.youtube.com/embed/nHPYltDSawM",
     "text": "A <span class='highlight'>h</span>orse <span class='highlight'>h</span>elped a <span class='highlight'>h</span>erd of <span class='highlight'>h</span>edge<span class='highlight'>h</span>ogs",
     "accordeon": ["'H': he, who, perhaps"]
   },
@@ -451,6 +490,7 @@
     "phoneme": "/tʃ/",
     "title": "Consonant sound /tʃ/ as in 'chair'",
     "src": "https://www.youtube.com/embed/WoyI_omRpcw?si=8_H1kXN1C7hxF5ku",
+    "mnemonic": "https://www.youtube.com/embed/f00V2Ts36SE",
     "text": "<span class='highlight'>Ch</span>ildren <span class='highlight'>ch</span>ose <span class='highlight'>ch</span>ili <span class='highlight'>ch</span>eese <span class='highlight'>ch</span>ips",
     "accordeon": [
       "'CH': chair, much",
@@ -464,6 +504,7 @@
     "phoneme": "/dʒ/",
     "title": "Consonant sound /dʒ/ as in 'job'",
     "src": "https://www.youtube.com/embed/zJJ3hhHtjtI?si=BLfeEkFWCAEg2-Am",
+    "mnemonic": "https://www.youtube.com/embed/ZvxwzJjMlWw",
     "text": "A <span class='highlight'>j</span>ockey in <span class='highlight'>j</span>eans <span class='highlight'>j</span>oined a <span class='highlight'>g</span>ym",
     "accordeon": [
       "'G': change, gym",
@@ -478,6 +519,7 @@
     "phoneme": "/r/",
     "title": "Consonant sound /r/ as in 'run'",
     "src": "https://www.youtube.com/embed/q5a2-KuHkBU?si=ZaZmeDMnUFODacfe",
+    "mnemonic": "https://www.youtube.com/embed/z2kKF4I-LVw",
     "text": "A <span class='highlight'>r</span>at <span class='highlight'>r</span>ode a t<span class='highlight'>r</span>ain in the <span class='highlight'>r</span>ain",
     "accordeon": ["'R': right, from", "'RR': arrive, correct"]
   },
@@ -486,6 +528,7 @@
     "phoneme": "/l/",
     "title": "Consonant sound /l/ as in 'let'",
     "src": "https://www.youtube.com/embed/JamM8TgB_AA?si=K-Rt5TBjNHbg0MjP",
+    "mnemonic": "https://www.youtube.com/embed/1yHUYBNjFFA",
     "text": "A <span class='highlight'>l</span>one <span class='highlight'>l</span>amb <span class='highlight'>l</span>ost his <span class='highlight'>l</span>and",
     "accordeon": ["'L': like, table", "'LL': all, collect"]
   },
@@ -494,6 +537,7 @@
     "phoneme": "/ɫ/",
     "title": "Consonant sound dark /ɫ/ as in 'call'",
     "src": "https://www.youtube.com/embed/ZTgYjGXFAkw?si=cFsCn1PBGRmvwlwN",
+    "mnemonic": "https://www.youtube.com/embed/nod5-jSvseg",
     "text": "Ta<span class='highlight'>ll</span> Pau<span class='highlight'>l</span> wi<span class='highlight'>ll</span> fi<span class='highlight'>ll</span> the sma<span class='highlight'>ll</span> bott<span class='highlight'>l</span>e fu<span class='highlight'>ll</span>.",
     "accordeon": ["'L': will, fill, trouble, people, control"]
   },
@@ -502,6 +546,7 @@
     "phoneme": "/n/",
     "title": "Consonant sound /n/ as in 'nice'",
     "src": "https://www.youtube.com/embed/1eyr7O4TFmI?si=snTFKYq8yTARN5jx",
+    "mnemonic": "https://www.youtube.com/embed/WsuG8hOsczA",
     "text": "A <span class='highlight'>n</span>ight <span class='highlight'>n</span>urse <span class='highlight'>n</span>apped till <span class='highlight'>n</span>ine",
     "accordeon": ["'N': name, bench", "'NN': dinner, tennis"]
   },
@@ -510,6 +555,7 @@
     "phoneme": "/m/",
     "title": "Consonant sound /m/ as in 'map'",
     "src": "https://www.youtube.com/embed/tkiN8BsBEfA?si=OB8o28fesrhpI3QA",
+    "mnemonic": "https://www.youtube.com/embed/kbP4__EdLw0",
     "text": "<span class='highlight'>M</span>asked <span class='highlight'>m</span>ice <span class='highlight'>m</span>ade a <span class='highlight'>m</span>eal at <span class='highlight'>m</span>idnight",
     "accordeon": ["'M': come, rhythm", "'MM': summer, common"]
   },
@@ -518,6 +564,7 @@
     "phoneme": "/ŋ/",
     "title": "Consonant sound /ŋ/ as in 'thing'",
     "src": "https://www.youtube.com/embed/5xVq8T88oJw?si=HyMhjh4pvkoMpsxU",
+    "mnemonic": "https://www.youtube.com/embed/1SGbelU7tbY",
     "text": "A ki<span class='highlight'>ng</span> sa<span class='highlight'>ng</span> the wro<span class='highlight'>ng</span> so<span class='highlight'>ng</span>",
     "accordeon": ["'N': think, finger", "'NG': thing, long"]
   },
@@ -526,6 +573,7 @@
     "phoneme": "/w/",
     "title": "Consonant sound /w/ as in 'way'",
     "src": "https://www.youtube.com/embed/nMB5mX_PGHQ?si=0wjO3j5xdX1WC7Y9",
+    "mnemonic": "https://www.youtube.com/embed/UQsyEigx7G0",
     "text": "A <span class='highlight'>w</span>hite <span class='highlight'>w</span>hale <span class='highlight'>w</span>inked and <span class='highlight'>w</span>ent a<span class='highlight'>w</span>ay",
     "accordeon": ["'W': we, twice", "'U': quite, suite", "etc.: one, choir"]
   },
@@ -534,6 +582,7 @@
     "phoneme": "/j/",
     "title": "Consonant sound /j/ as in 'yes'",
     "src": "https://www.youtube.com/embed/1G8SCotE2yg?si=MWOxI38HqSBc2rxC",
+    "mnemonic": "https://www.youtube.com/embed/W-JFRXfeaf4",
     "text": "<span class='highlight'>U</span>nicorns <span class='highlight'>y</span>ell in <span class='highlight'>y</span>our back<span class='highlight'>y</span>ard",
     "accordeon": [
       "'U': deputy, popular",
