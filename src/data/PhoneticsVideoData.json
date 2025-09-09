@@ -78,7 +78,7 @@
     "phoneme": "/æ/",
     "title": "Vowel sound /æ/ as in 'cat'",
     "src": "https://www.youtube.com/embed/mynucZiy-Ug?si=nrz4oxjXwtNFA5Kg",
-    "text": "A fat black cat in a hat had a nap",
+    "text": "A f<span class='highlight'>a</span>t bl<span class='highlight'>a</span>ck c<span class='highlight'>a</span>t in a h<span class='highlight'>a</span>t h<span class='highlight'>a</span>d a n<span class='highlight'>a</span>p",
     "accordeon": ["'A': cat", "'AL': half", "'AU': laugh"]
   },
   {
@@ -86,7 +86,7 @@
     "phoneme": "/ɔ/",
     "title": "Vowel sound /ɔ/ as in 'on'",
     "src": "https://www.youtube.com/embed/pr_KAu-_Hmo?si=L3gi5N7_dd_4Z0Mk",
-    "text": "A small frog lost in a fog",
+    "text": "A sm<span class='highlight'>a</span>ll fr<span class='highlight'>o</span>g l<span class='highlight'>o</span>st in a f<span class='highlight'>o</span>g",
     "accordeon": [
       "'O': on",
       "'AU': cause",
@@ -102,7 +102,7 @@
     "phoneme": "/ʊ/",
     "title": "Vowel sound /ʊ/ as in 'put'",
     "src": "https://www.youtube.com/embed/moLTR-dLQQY?si=MjUnKsAHfyrdWAR_",
-    "text": "A cook stood in a brook",
+    "text": "A c<span class='highlight'>oo</span>k st<span class='highlight'>oo</span>d in a br<span class='highlight'>oo</span>k",
     "accordeon": ["'U': put", "'OO': book", "'O': wolf", "'OU': could"]
   },
   {
@@ -110,7 +110,7 @@
     "phoneme": "/u/",
     "title": "Vowel sound /u/ as in 'blue'",
     "src": "https://www.youtube.com/embed/lkM6CKBM2ns?si=cgiCYRNpZRGj0z6l",
-    "text": "Cute troops in blue boots",
+    "text": "C<span class='highlight'>u</span>te tr<span class='highlight'>oo</span>ps in bl<span class='highlight'>u</span>e b<span class='highlight'>oo</span>ts",
     "accordeon": [
       "'U': rule",
       "'OO': too",
@@ -124,7 +124,7 @@
     "phoneme": "/aʊ/",
     "title": "Vowel sound /aʊ/ as in 'cloud'",
     "src": "https://www.youtube.com/embed/-V690OA75bA?si=5k4alngWDIaLzY2X",
-    "text": "A proud clown in the crown",
+    "text": "A pr<span class='highlight'>ou</span>d cl<span class='highlight'>ow</span>n in the cr<span class='highlight'>ow</span>n",
     "accordeon": ["'OU': couch", "'OW': cow"]
   },
   {
@@ -132,7 +132,7 @@
     "phoneme": "/oʊ/",
     "title": "Vowel sound /oʊ/ as in 'go'",
     "src": "https://www.youtube.com/embed/4kPJLHiiGdU?si=c_h-vINE2OZFqFWG",
-    "text": "A ghost hopes for a home",
+    "text": "A gh<span class='highlight'>o</span>st h<span class='highlight'>o</span>pes for a h<span class='highlight'>o</span>me",
     "accordeon": [
       "'O': go",
       "'OW': snow",
@@ -146,7 +146,7 @@
     "phoneme": "/aɪ/",
     "title": "Vowel sound /aɪ/ as in 'like'",
     "src": "https://www.youtube.com/embed/8uD-GuuSgyk?si=kXB9u6BJG4TWwfLo",
-    "text": "A bright kite flies in the sky",
+    "text": "A br<span class='highlight'>i</span>ght k<span class='highlight'>i</span>te fl<span class='highlight'>i</span>es in the sk<span class='highlight'>y</span>",
     "accordeon": ["'I': like", "'Y': my", "etc.: violin, eye, buy"]
   },
   {
@@ -154,7 +154,7 @@
     "phoneme": "/eɪ/",
     "title": "Vowel sound /eɪ/ as in 'make'",
     "src": "https://www.youtube.com/embed/0RXzfRcjk-s?si=jiCCpSOnvRBqTacE",
-    "text": "A snail takes a late train",
+    "text": "A kr<span class='highlight'>a</span>ne t<span class='highlight'>a</span>kes a l<span class='highlight'>a</span>te tr<span class='highlight'>ai</span>n",
     "accordeon": [
       "'A': take",
       "'AI': wait",
@@ -168,7 +168,7 @@
     "phoneme": "/ɔɪ/",
     "title": "Vowel sound /ɔɪ/ as in 'boy'",
     "src": "https://www.youtube.com/embed/ZfjPBN22mK8?si=rTCOCUyNVex7Yw-w",
-    "text": "A boy annoyed with his toy",
+    "text": "A b<span class='highlight'>oy</span> ann<span class='highlight'>oy</span>ed with his t<span class='highlight'>o</span>y",
     "accordeon": ["'OI': point", "'OY': boy", "etc.: lawyer"]
   },
 
@@ -177,7 +177,7 @@
     "phoneme": "/ɝ/",
     "title": "R-Colored vowel sound /ɝ/ as in 'first'",
     "src": "https://www.youtube.com/embed/6ppOrwjvslc?si=_NRsKcu8j3uNWDyc",
-    "text": "A bird in a purple skirt",
+    "text": "A b<span class='highlight'>ir</span>d in a p<span class='highlight'>ur</span>ple sk<span class='highlight'>ir</span>t",
     "accordeon": [
       "'ER': her",
       "'UR': turn",
@@ -194,7 +194,7 @@
     "phoneme": "/ɚ/",
     "title": "R-Colored vowel sound /ɚ/ as in 'after'",
     "src": "https://www.youtube.com/embed/AzNRoSGBh44?si=jXxdhIiy1bZ7oyEA",
-    "text": "Eager tigers hammer spiders",
+    "text": "Eag<span class='highlight'>er</span> tig<span class='highlight'>er</span>s hamm<span class='highlight'>er</span> spid<span class='highlight'>er</span>s",
     "accordeon": [
       "'ER': never",
       "'UR': picture",
@@ -209,7 +209,7 @@
     "phoneme": "/ɪr/",
     "title": "R-Colored vowel sound /ɪr/ as in 'hero'",
     "src": "https://www.youtube.com/embed/X0bkG5ZfzH4?si=IP-dHRSaviGcmZSv",
-    "text": "Beer for a deer on a pier",
+    "text": "B<span class='highlight'>eer</span> for a d<span class='highlight'>eer</span> on a p<span class='highlight'>ier</span>",
     "accordeon": [
       "'ER': here",
       "'EAR': year",
@@ -223,7 +223,7 @@
     "phoneme": "/ɛr/",
     "title": "R-Colored vowel sound /ɛr/ as in 'chair'",
     "src": "https://www.youtube.com/embed/ZjurI7xtCjE?si=uaJdTvtBNzwzfeUQ",
-    "text": "A bear with a pear on a chair",
+    "text": "A b<span class='highlight'>ear</span> with a p<span class='highlight'>ear</span> on a ch<span class='highlight'>air</span>",
     "accordeon": [
       "'AR': care, parent",
       "'ER': very, where",
@@ -238,7 +238,7 @@
     "phoneme": "/ɑr/",
     "title": "R-Colored vowel sound /ɑr/ as in 'car'",
     "src": "https://www.youtube.com/embed/x6E2L2vLH78?si=YSlDNZH5wJVsPSAC",
-    "text": "A guard with a scar in a car",
+    "text": "A gu<span class='highlight'>ar</span>d with a sc<span class='highlight'>ar</span> in a c<span class='highlight'>ar</span>",
     "accordeon": [
       "'AR': start, car",
       "'EAR': heart, hearty",
@@ -250,7 +250,7 @@
     "phoneme": "/ɔr/",
     "title": "R-Colored vowel sound /ɔr/ as in 'sport'",
     "src": "https://www.youtube.com/embed/ZbDrxmP4_S4?si=TO3r_BcJx9rpULYX",
-    "text": "A horse snores on a warm shore",
+    "text": "A h<span class='highlight'>or</span>se sn<span class='highlight'>or</span>es on a w<span class='highlight'>ar</span>m sh<span class='highlight'>or</span>e",
     "accordeon": [
       "'OR': for, adore",
       "'AR': warm, quarter",
@@ -266,7 +266,7 @@
     "phoneme": "/aɪr/",
     "title": "R-Colored vowel sound /aɪr/ as in 'fire'",
     "src": "https://www.youtube.com/embed/PdV7RymsiMY?si=HCRiYSnyIF-QmlLL",
-    "text": "New attire for vampire",
+    "text": "New att<span class='highlight'>ir</span>e for vamp<span class='highlight'>ir</span>e",
     "accordeon": ["'IR': fire, wire", "etc.: dryer, supplier"]
   },
   {
