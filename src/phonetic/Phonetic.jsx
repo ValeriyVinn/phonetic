@@ -199,7 +199,7 @@ const Phonetics = () => {
                 className={css.btnWatchVideo}
                 onClick={() => openModal(video.src)}
               >
-                Video
+                Commence
               </button>
             </div>
 

@@ -23,8 +23,9 @@ body {
 
 :root {
   line-height: 1.5;
+  font-size: 18px;
   font-weight: 400;
-
+color: green;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -109,6 +110,6 @@ div {
 
 .highlight {
   color: red;
-  font-weight: bold;
+  font-weight: 500;
 }
 
