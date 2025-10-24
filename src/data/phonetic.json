@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1,
+    "phoneme": "/i/",
+    "title": "Vowel sound /i/ as in 'be'",
+    "src": "https://www.youtube.com/embed/PIu5WDIco0I?si=0u-vn_RIcPab4mnI",
+    "mnemonic": "https://www.youtube.com/embed/nod5-jSvseg",
+    "textFile": "1",
+    "accordeon": [
+      "'Y': city",
+      "'EA': each",
+      "'E': be",
+      "'I': ski",
+      "'EE': see",
+      "'IE': piece",
+      "'EY': key"
+    ]
+  },
+  {
+    "id": 2,
+    "phoneme": "/ɪ/",
+    "title": "Vowel sound /ɪ/ as in 'it'",
+    "src": "https://www.youtube.com/embed/Ok_HG-0lNCA?si=vCPWEvzYZJE5KP-k",
+    "mnemonic": "https://www.youtube.com/embed/uR5bReYc42E",
+    "textFile": "2",
+    "accordeon": [
+      "'I': it, drink",
+      "'E': enough, decide",
+      "'A': message, private",
+      "'Y': gym, typical",
+      "etc.:  build, busy"
+    ]
+  },
+  {
+    "id": 3,
+    "phoneme": "/ʌ/",
+    "title": "Vowel sound /ʌ/ as in 'us'",
+    "src": "https://www.youtube.com/embed/X1utTZqC3AI?si=iFiYRoGCaRNqc18M",
+    "mnemonic": "https://www.youtube.com/embed/QOcqNGu_zJY",
+    "textFile": "3",
+    "accordeon": ["'U': but", "'O': come", "'OU': young", "'OO': flood"]
+  },
+  {
+    "id": 4,
+    "phoneme": "/ɑ/",
+    "title": "Vowel sound /ɑ/ as in 'got'",
+    "src": "https://www.youtube.com/embed/R5CY1UniS68?si=9pL2kZUTmWsIwfwV",
+    "mnemonic": "https://www.youtube.com/embed/Cym-nXySiMA",
+    "textFile": "4",
+    "accordeon": ["'O': stop, got", "'A': want, father", "etc.: trauma, genre"]
+  },
+  {
+    "id": 5,
+    "phoneme": "/ɛ/",
+    "title": "Vowel sound /ɛ/ as in 'bed'",
+    "src": "https://www.youtube.com/embed/OLG3cCLcNiI?si=dpq6nNTcQbE4ZTBT",
+    "mnemonic": "https://www.youtube.com/embed/xO0X3Emy3OE",
+    "textFile": "5",
+    "accordeon": [
+      "'E': get, let, end",
+      "'EA': head, ready",
+      "'A': any, many",
+      "etc.: friend, guest"
+    ]
+  },
+  {
+    "id": 6,
+    "phoneme": "/ə/",
+    "title": "Vowel sound /ə/ (schwa) as in 'ago'",
+    "src": "https://www.youtube.com/embed/m1mDSUSwNls?si=Ft_iVJ8nt4eF8gsm",
+    "mnemonic": "https://www.youtube.com/embed/TmemsEd2a88",
+    "textFile": "6",
+    "accordeon": [
+      "'A': above",
+      "'O': today",
+      "'E': even",
+      "'IO': nation",
+      "'I': pencil",
+      "'U': product"
+    ]
+  },
+  {
+    "id": 7,
+    "phoneme": "/æ/",
+    "title": "Vowel sound /æ/ as in 'cat'",
+    "src": "https://www.youtube.com/embed/mynucZiy-Ug?si=nrz4oxjXwtNFA5Kg",
+    "mnemonic": "https://www.youtube.com/embed/ycGi-LiH9uU",
+    "textFile": "7",
+    "accordeon": ["'A': cat", "'AL': half", "'AU': laugh"]
+  },
+  {
+    "id": 8,
+    "phoneme": "/ɔ/",
+    "title": "Vowel sound /ɔ/ as in 'on'",
+    "src": "https://www.youtube.com/embed/pr_KAu-_Hmo?si=L3gi5N7_dd_4Z0Mk",
+    "mnemonic": "https://www.youtube.com/embed/ZcZeNL2bNUE",
+    "textFile": "8",
+    "accordeon": [
+      "'O': on",
+      "'AU': cause",
+      "'A': water",
+      "'AL': call",
+      "'AW': saw",
+      "'OU': thought",
+      "'OA': broad"
+    ]
+  },
+  {
+    "id": 9,
+    "phoneme": "/ʊ/",
+    "title": "Vowel sound /ʊ/ as in 'put'",
+    "src": "https://www.youtube.com/embed/moLTR-dLQQY?si=MjUnKsAHfyrdWAR_",
+    "mnemonic": "https://www.youtube.com/embed/xZAsIqv5FDY",
+    "textFile": "9",
+    "accordeon": ["'U': put", "'OO': book", "'O': wolf", "'OU': could"]
+  },
+  {
+    "id": 10,
+    "phoneme": "/u/",
+    "title": "Vowel sound /u/ as in 'blue'",
+    "src": "https://www.youtube.com/embed/lkM6CKBM2ns?si=cgiCYRNpZRGj0z6l",
+    "mnemonic": "https://www.youtube.com/embed/N34ZKV7eMog",
+    "textFile": "10",
+    "accordeon": [
+      "'U': rule",
+      "'OO': too",
+      "'O': do",
+      "'EW': new",
+      "'OU': soup"
+    ]
+  },
+  {
+    "id": 11,
+    "phoneme": "/aʊ/",
+    "title": "Vowel sound /aʊ/ as in 'cloud'",
+    "src": "https://www.youtube.com/embed/-V690OA75bA?si=5k4alngWDIaLzY2X",
+    "mnemonic": "https://www.youtube.com/embed/yWC1sJ1RPFA",
+    "textFile": "11",
+    "accordeon": ["'OU': couch", "'OW': cow"]
+  },
+  {
+    "id": 12,
+    "phoneme": "/oʊ/",
+    "title": "Vowel sound /oʊ/ as in 'go'",
+    "src": "https://www.youtube.com/embed/4kPJLHiiGdU?si=c_h-vINE2OZFqFWG",
+    "mnemonic": "https://www.youtube.com/embed/V70LCIystx8",
+    "textFile": "12",
+    "accordeon": [
+      "'O': go",
+      "'OW': snow",
+      "'OA': coat",
+      "'OU': though",
+      "'EW': sew"
+    ]
+  },
+  {
+    "id": 13,
+    "phoneme": "/aɪ/",
+    "title": "Vowel sound /aɪ/ as in 'like'",
+    "src": "https://www.youtube.com/embed/8uD-GuuSgyk?si=kXB9u6BJG4TWwfLo",
+    "mnemonic": "https://www.youtube.com/embed/j1N-knNLtsA",
+    "textFile": "13",
+    "accordeon": ["'I': like", "'Y': my", "etc.: violin, eye, buy"]
+  },
+  {
+    "id": 14,
+    "phoneme": "/eɪ/",
+    "title": "Vowel sound /eɪ/ as in 'make'",
+    "src": "https://www.youtube.com/embed/0RXzfRcjk-s?si=jiCCpSOnvRBqTacE",
+    "mnemonic": "https://www.youtube.com/embed/kvpZoZUdA0o",
+    "textFile": "14",
+    "accordeon": [
+      "'A': take",
+      "'AI': wait",
+      "'AY': day",
+      "'EI': eight",
+      "'EA': break"
+    ]
+  },
+  {
+    "id": 15,
+    "phoneme": "/ɔɪ/",
+    "title": "Vowel sound /ɔɪ/ as in 'boy'",
+    "src": "https://www.youtube.com/embed/ZfjPBN22mK8?si=rTCOCUyNVex7Yw-w",
+    "mnemonic": "https://www.youtube.com/embed/TiOSOVukXDg",
+    "textFile": "15",
+    "accordeon": ["'OI': point", "'OY': boy", "etc.: lawyer"]
+  },
+
+  {
+    "id": 16,
+    "phoneme": "/ɝ/",
+    "title": "R-Colored vowel sound /ɝ/ as in 'first'",
+    "src": "https://www.youtube.com/embed/6ppOrwjvslc?si=_NRsKcu8j3uNWDyc",
+    "mnemonic": "https://www.youtube.com/embed/BB9Gx4Y5sTs",
+    "textFile": "16",
+    "accordeon": [
+      "'ER': her",
+      "'UR': turn",
+      "'IR': first",
+      "'OR': work",
+      "'EAR': learn",
+      "'OUR': journey",
+      "'URR': current",
+      "etc.: squirrel, worry"
+    ]
+  },
+  {
+    "id": 17,
+    "phoneme": "/ɚ/",
+    "title": "R-Colored vowel sound /ɚ/ as in 'after'",
+    "src": "https://www.youtube.com/embed/AzNRoSGBh44?si=jXxdhIiy1bZ7oyEA",
+    "mnemonic": "https://www.youtube.com/embed/s3pSl4hx_KQ",
+    "textFile": "17",
+    "accordeon": [
+      "'ER': never",
+      "'UR': picture",
+      "'OR': doctor",
+      "'AR': dollar",
+      "'R': our",
+      "etc.: yourself, amateur"
+    ]
+  },
+  {
+    "id": 18,
+    "phoneme": "/ɪr/",
+    "title": "R-Colored vowel sound /ɪr/ as in 'hero'",
+    "src": "https://www.youtube.com/embed/X0bkG5ZfzH4?si=IP-dHRSaviGcmZSv",
+    "mnemonic": "https://www.youtube.com/embed/-s_2dkuRqxM",
+    "textFile": "18",
+    "accordeon": [
+      "'ER': here",
+      "'EAR': year",
+      "'EER': beer, career",
+      "'IER': pier, fierce",
+      "etc.: spirit, weird"
+    ]
+  },
+  {
+    "id": 19,
+    "phoneme": "/ɛr/",
+    "title": "R-Colored vowel sound /ɛr/ as in 'chair'",
+    "src": "https://www.youtube.com/embed/ZjurI7xtCjE?si=uaJdTvtBNzwzfeUQ",
+    "mnemonic": "https://www.youtube.com/embed/3X8D0gu81qY",
+    "textFile": "19",
+    "accordeon": [
+      "'AR': care, parent",
+      "'ER': very, where",
+      "'AIR': hair, chair",
+      "'ARR': carry, marry",
+      "'ERR': merry, error",
+      "etc.: bear, their"
+    ]
+  },
+  {
+    "id": 20,
+    "phoneme": "/ɑr/",
+    "title": "R-Colored vowel sound /ɑr/ as in 'car'",
+    "src": "https://www.youtube.com/embed/x6E2L2vLH78?si=YSlDNZH5wJVsPSAC",
+    "mnemonic": "https://www.youtube.com/embed/EdJCPfASQPA",
+    "textFile": "20",
+    "accordeon": [
+      "'AR': start, car",
+      "'EAR': heart, hearty",
+      "etc.: sorry, sergeant"
+    ]
+  },
+  {
+    "id": 21,
+    "phoneme": "/ɔr/",
+    "title": "R-Colored vowel sound /ɔr/ as in 'sport'",
+    "src": "https://www.youtube.com/embed/ZbDrxmP4_S4?si=TO3r_BcJx9rpULYX",
+    "mnemonic": "https://www.youtube.com/embed/e_I9eFX5mtk",
+    "textFile": "21",
+    "accordeon": [
+      "'OR': for, adore",
+      "'AR': warm, quarter",
+      "'OUR': four, your",
+      "'OOR': door, floor",
+      "'OAR': board, roar",
+      "'ORR': horrible, corridor",
+      "etc.: warrant, laurel"
+    ]
+  },
+  {
+    "id": 22,
+    "phoneme": "/aɪr/",
+    "title": "R-Colored vowel sound /aɪr/ as in 'fire'",
+    "src": "https://www.youtube.com/embed/PdV7RymsiMY?si=HCRiYSnyIF-QmlLL",
+    "mnemonic": "https://www.youtube.com/embed/FUypj1jfNL0",
+    "textFile": "22",
+    "accordeon": ["'IR': fire, wire", "etc.: dryer, supplier"]
+  },
+  {
+    "id": 23,
+    "phoneme": "/p/",
+    "title": "Consonant sound /p/ as in 'pie'",
+    "src": "https://www.youtube.com/embed/V_n_rUKQSew?si=SN_dsb6nqAWyd1Lf",
+    "mnemonic": "https://www.youtube.com/embed/YcSefeZOAyc",
+    "textFile": "23",
+    "accordeon": ["'P': put, ship", "'PP': happy, apply"]
+  },
+  {
+    "id": 24,
+    "phoneme": "/b/",
+    "title": "Consonant sound /b/ as in 'boy'",
+    "src": "https://www.youtube.com/embed/LbCOXRz7Uf8",
+    
+    "mnemonic": "https://www.youtube.com/embed/CGsWhSvywus",
+    "textFile": "24",
+    "accordeon": ["'B': club, back", "'BB': rabbit, stubborn"]
+  },
+  {
+    "id": 25,
+    "phoneme": "/t/",
+    "title": "Consonant sound /t/ as in 'toy'",
+    "src": "https://www.youtube.com/embed/mLlotV_0dRI?si=jzQihAywJcpGLt2H",
+    "mnemonic": "https://www.youtube.com/embed/j9gHRJQIsgE",
+    "textFile": "25",
+    "accordeon": [
+      "'T': time, get, hotel",
+      "'TT': attorney, attach",
+      "etc.: pizza, paparazzi"
+    ]
+  },
+  {
+    "id": 26,
+    "phoneme": "/t̬/",
+    "title": "Consonant sound Flapt 'T' /t̬/ as in 'water'",
+    "src": "https://www.youtube.com/embed/9b-UIkuwOdU?si=nErogrf3hWkIYfsr",
+    "mnemonic": "https://www.youtube.com/embed/LmuLwj4ZQ0c",
+    "textFile": "26",
+    "accordeon": ["'T': water, ability", "'TT': little, pretty"]
+  },
+  {
+    "id": 27,
+    "phoneme": "/ʔ/",
+    "title": "Consonant sound Glottal 'T' /ʔ/ as in 'button'",
+    "src": "https://www.youtube.com/embed/Vabg-EUHOQk?si=FV2Hw4Z4QxMlWksh",
+    "mnemonic": "https://www.youtube.com/embed/wIAN_77b6QQ",
+    "textFile": "27",
+    "accordeon": ["'T': certain, eaten", "'TT': cotton, button"]
+  },
+  {
+    "id": 28,
+    "phoneme": "/d/",
+    "title": "Consonant sound /d/ as in 'dog'",
+    "src": "https://www.youtube.com/embed/N73xPe0x79g?si=6RybK-vKNkxE7-OM",
+    "mnemonic": "https://www.youtube.com/embed/Pxc706u_Xng",
+    "textFile": "28",
+    "accordeon": ["'D': do, today", "'DD': buddy, add"]
+  },
+  {
+    "id": 29,
+    "phoneme": "/k/",
+    "title": "Consonant sound /k/ as in 'key'",
+    "src": "https://www.youtube.com/embed/zxrveu6yu6E?si=-2Jqk9O09aep7SIu",
+    "mnemonic": "https://www.youtube.com/embed/KtmCFv1Wf8w",
+    "textFile": "29",
+    "accordeon": [
+      "'C': can, clean",
+      "'K': like, keep",
+      "'CK': back, check",
+      "'X': next, six",
+      "'Q': quick, square",
+      "'CH': school, ache",
+      "etc.: occur, length"
+    ]
+  },
+  {
+    "id": 30,
+    "phoneme": "/ɡ/",
+    "title": "Consonant sound /ɡ/ as in 'gift'",
+    "src": "https://www.youtube.com/embed/vP5XKYvxe0Q?si=gZbKliHKVibBHRdq",
+    "mnemonic": "https://www.youtube.com/embed/Daf7EjyLPQI",
+    "textFile": "30",
+    "accordeon": ["'G': great, dog", "'GG': egg, struggle", "'X': exact, exam"]
+  },
+  {
+    "id": 31,
+    "phoneme": "/f/",
+    "title": "Consonant sound /f/ as in 'fun'",
+    "src": "https://www.youtube.com/embed/05f62-73nrY?si=xFKxDl35zRXErJzI",
+    "mnemonic": "https://www.youtube.com/embed/gwspHzNlM2g",
+    "textFile": "31",
+    "accordeon": [
+      "'F': from, if",
+      "'FF': stuff, traffic",
+      "'PH': phone, phrase",
+      "'GH': laugh, enough"
+    ]
+  },
+
+  {
+    "id": 32,
+    "phoneme": "/v/",
+    "title": "Consonant sound /v/ as in 'very'",
+    "src": "https://www.youtube.com/embed/U5Oro6v0klg?si=d9adEpyQeT8_ZdvU",
+    "mnemonic": "https://www.youtube.com/embed/sNrff011NGA",
+    "textFile": "32",
+    "accordeon": ["'V': have, very", "'F': of, thereof"]
+  },
+  {
+    "id": 33,
+    "phoneme": "/θ/",
+    "title": "Consonant sound /θ/ (voiceless 'th') as in 'think'",
+    "src": "https://www.youtube.com/embed/qC0l6GQZtM4?si=LLn1mL3G8S73RbCu",
+    "mnemonic": "https://www.youtube.com/embed/eWNZtKR5Rx8",
+    "textFile": "33",
+    "accordeon": ["'TH': think, bath"]
+  },
+  {
+    "id": 34,
+    "phoneme": "/ð/",
+    "title": "Consonant sound /ð/ (voiced 'th') as in 'this'",
+    "src": "https://www.youtube.com/embed/EZb_EWVCUoE?si=_QMnG_1uYq1DFNtT",
+    "mnemonic": "https://www.youtube.com/embed/KNJ1xPZcCUE",
+    "textFile": "34",
+    "accordeon": ["'TH': this, mother"]
+  },
+  {
+    "id": 35,
+    "phoneme": "/s/",
+    "title": "Consonant sound /s/ as in 'sun'",
+    "src": "https://www.youtube.com/embed/6hWPXaPXrnQ?si=BoSTS1i8e3nG_B-i",
+    "mnemonic": "https://www.youtube.com/embed/natmeeq0QXE",
+    "textFile": "35",
+    "accordeon": [
+      "'S': see, house, bus",
+      "'C': cent, city, fancy",
+      "'SS': miss, assign, actress",
+      "'X': next, six, taxi",
+      "etc.: scene, waltz, pizza"
+    ]
+  },
+  {
+    "id": 36,
+    "phoneme": "/z/",
+    "title": "Consonant sound /z/ as in 'zoo'",
+    "src": "https://www.youtube.com/embed/ky7Jh9Bbjts?si=QqRY_--7ZNLGVm85",
+    "mnemonic": "https://www.youtube.com/embed/uFDr42q82hE",
+    "textFile": "36",
+    "accordeon": [
+      "'S': easy, please",
+      "'Z': zoo, size",
+      "'X': exact, exam",
+      "etc.: buzz, dessert"
+    ]
+  },
+  {
+    "id": 37,
+    "phoneme": "/ʃ/",
+    "title": "Consonant sound /ʃ/ as in 'show'",
+    "src": "https://www.youtube.com/embed/wINb4HFguck?si=dFgOFHQrpDJ0VU-B",
+    "mnemonic": "https://www.youtube.com/embed/bXkll6CQeiM",
+    "textFile": "37",
+    "accordeon": [
+      "'T': station, patient",
+      "'SH': show, wish",
+      "'C': special, ocean",
+      "'SS': issue, mission",
+      "'S': tension, sure",
+      "'CH': machine, chef",
+      "etc.: anxious, conscious"
+    ]
+  },
+  {
+    "id": 38,
+    "phoneme": "/ʒ/",
+    "title": "Consonant sound /ʒ/ as in 'vision'",
+    "src": "https://www.youtube.com/embed/k8ImSmVOSVA?si=wBAfC5tjq_VGhHCS",
+    "mnemonic": "https://www.youtube.com/embed/LG_iJx0owVM",
+    "textFile": "38",
+    "accordeon": [
+      "'S': decision, measure",
+      "'G': massage, beige",
+      "etc.: seizure, luxurious"
+    ]
+  },
+  {
+    "id": 39,
+    "phoneme": "/h/",
+    "title": "Consonant sound /h/ as in 'home'",
+    "src": "https://www.youtube.com/embed/dV6At0g4n78?si=8WUeKp0-gYhQOvZ6",
+    "mnemonic": "https://www.youtube.com/embed/nHPYltDSawM",
+    "textFile": "39",
+    "accordeon": ["'H': he, who, perhaps"]
+  },
+  {
+    "id": 40,
+    "phoneme": "/tʃ/",
+    "title": "Consonant sound /tʃ/ as in 'chair'",
+    "src": "https://www.youtube.com/embed/WoyI_omRpcw?si=8_H1kXN1C7hxF5ku",
+    "mnemonic": "https://www.youtube.com/embed/f00V2Ts36SE",
+    "textFile": "40",
+    "accordeon": [
+      "'CH': chair, much",
+      "'T': nature, question",
+      "'TCH': watch, kitchen",
+      "etc.: cello, cappuccino"
+    ]
+  },
+  {
+    "id": 41,
+    "phoneme": "/dʒ/",
+    "title": "Consonant sound /dʒ/ as in 'job'",
+    "src": "https://www.youtube.com/embed/zJJ3hhHtjtI?si=BLfeEkFWCAEg2-Am",
+    "mnemonic": "https://www.youtube.com/embed/ZvxwzJjMlWw",
+    "textFile": "41",
+    "accordeon": [
+      "'G': change, gym",
+      "'J': job, project",
+      "'DG': badge, edge",
+      "'D': educate, soldier",
+      "etc.: adjust, suggest"
+    ]
+  },
+  {
+    "id": 42,
+    "phoneme": "/r/",
+    "title": "Consonant sound /r/ as in 'run'",
+    "src": "https://www.youtube.com/embed/q5a2-KuHkBU?si=ZaZmeDMnUFODacfe",
+    "mnemonic": "https://www.youtube.com/embed/z2kKF4I-LVw",
+    "textFile": "42",
+    "accordeon": ["'R': right, from", "'RR': arrive, correct"]
+  },
+  {
+    "id": 43,
+    "phoneme": "/l/",
+    "title": "Consonant sound /l/ as in 'let'",
+    "src": "https://www.youtube.com/embed/JamM8TgB_AA?si=K-Rt5TBjNHbg0MjP",
+    "mnemonic": "https://www.youtube.com/embed/1yHUYBNjFFA",
+    "textFile": "43",
+    "accordeon": ["'L': like, table", "'LL': all, collect"]
+  },
+  {
+    "id": 44,
+    "phoneme": "/ɫ/",
+    "title": "Consonant sound dark /ɫ/ as in 'call'",
+    "src": "https://www.youtube.com/embed/ZTgYjGXFAkw?si=cFsCn1PBGRmvwlwN",
+    "mnemonic": "https://www.youtube.com/embed/nod5-jSvseg",
+    "textFile": "44",
+    "accordeon": ["'L': will, fill, trouble, people, control"]
+  },
+  {
+    "id": 45,
+    "phoneme": "/n/",
+    "title": "Consonant sound /n/ as in 'nice'",
+    "src": "https://www.youtube.com/embed/1eyr7O4TFmI?si=snTFKYq8yTARN5jx",
+    "mnemonic": "https://www.youtube.com/embed/WsuG8hOsczA",
+    "textFile": "45",
+    "accordeon": ["'N': name, bench", "'NN': dinner, tennis"]
+  },
+  {
+    "id": 46,
+    "phoneme": "/m/",
+    "title": "Consonant sound /m/ as in 'map'",
+    "src": "https://www.youtube.com/embed/tkiN8BsBEfA?si=OB8o28fesrhpI3QA",
+    "mnemonic": "https://www.youtube.com/embed/kbP4__EdLw0",
+    "textFile": "46",
+    "accordeon": ["'M': come, rhythm", "'MM': summer, common"]
+  },
+  {
+    "id": 47,
+    "phoneme": "/ŋ/",
+    "title": "Consonant sound /ŋ/ as in 'thing'",
+    "src": "https://www.youtube.com/embed/5xVq8T88oJw?si=HyMhjh4pvkoMpsxU",
+    "mnemonic": "https://www.youtube.com/embed/1SGbelU7tbY",
+    "textFile": "47",
+    "accordeon": ["'N': think, finger", "'NG': thing, long"]
+  },
+  {
+    "id": 48,
+    "phoneme": "/w/",
+    "title": "Consonant sound /w/ as in 'way'",
+    "src": "https://www.youtube.com/embed/nMB5mX_PGHQ?si=0wjO3j5xdX1WC7Y9",
+    "mnemonic": "https://www.youtube.com/embed/UQsyEigx7G0",
+    "textFile": "48",
+    "accordeon": ["'W': we, twice", "'U': quite, suite", "etc.: one, choir"]
+  },
+  {
+    "id": 49,
+    "phoneme": "/j/",
+    "title": "Consonant sound /j/ as in 'yes'",
+    "src": "https://www.youtube.com/embed/1G8SCotE2yg?si=MWOxI38HqSBc2rxC",
+    "mnemonic": "https://www.youtube.com/embed/W-JFRXfeaf4",
+    "textFile": "49",
+    "accordeon": [
+      "'U': deputy, popular",
+      "'Y': you, canyon",
+      "'I': onion, familiar",
+      "'UR': cure, failure",
+      "etc.: Europe, eureka"
+    ]
+  }
+]
